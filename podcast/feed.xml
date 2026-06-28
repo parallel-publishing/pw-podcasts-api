@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0">
+  <channel>
+    <atom:link href="https://api.podcast.parallelworlds.uk/podcast/feed/" rel="self" type="application/rss+xml"/>
+    <title>Parallel Publishing</title>
+    <link>https://www.parallelpublishing.co.uk</link>
+    <language>en-GB</language>
+    <copyright>℗ &amp; © 2026 Parallel Worlds</copyright>
+    <description>Parallel Publishing brings you the best in the world of tabletop roleplaying, with Parallel Worlds Magazine, the Parallel Roles livestream, and exceptional standalone publications</description>
+    <itunes:subtitle>Parallel Worlds Magazine and more</itunes:subtitle>
+    <itunes:author>Parallel Worlds</itunes:author>
+    <itunes:summary>Audio versions of Parallel Worlds Magazine, our roleplaying games series, interviews and more.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>Parallel Worlds</itunes:name>
+      <itunes:email>is-it@parallelpublishing.co.uk</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/podcast_logo_9c1f305b1e.png"/>
+    <image>
+      <title>Parallel Publishing</title>
+      <url>https://api.podcast.parallelworlds.uk/uploads/podcast_logo_9c1f305b1e.png</url>
+      <link>https://www.parallelpublishing.co.uk</link>
+    </image>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:category text="Arts"/>
+    <googleplay:category text="Arts"/>
+    <item>
+      <title>Parallel Roles Season 2 Episode 4</title>
+      <itunes:subtitle>Chrome Stars</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/SM_template_podcast_da2a7f8029.png"/>
+      <itunes:summary><![CDATA[<p>Welcome to Season 2, Episode 4 of Parallel Roles! With this show, we are playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our second season, we are using the new Cyberpunk RED system, and playing a campaign called Chrome Stars in the techno-grimdark world of Night City. In our fourth episode, Cali takes off her helmet, Rake goes hardcore, and Shielder is just <em>done</em> with all of it.</p>
+<p><strong>CONTENT WARNING</strong>: this episode and this season include references to police violence and human trafficking that could be triggering for some listeners.</p>
+<p>For this season, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Side-Note: Yes, we are aware that we get some rules things wrong; this is a complicated game! For a review of our experience, check out <a href="https://www.drivethrurpg.com/product/344245/Parallel-Worlds-Issue-18">Parallel Worlds Issue #18</a>.</p>]]></itunes:summary>
+      <description><![CDATA[<p>Welcome to Season 2, Episode 4 of Parallel Roles! With this show, we are playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our second season, we are using the new Cyberpunk RED system, and playing a campaign called Chrome Stars in the techno-grimdark world of Night City. In our fourth episode, Cali takes off her helmet, Rake goes hardcore, and Shielder is just <em>done</em> with all of it.</p>
+<p><strong>CONTENT WARNING</strong>: this episode and this season include references to police violence and human trafficking that could be triggering for some listeners.</p>
+<p>For this season, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Side-Note: Yes, we are aware that we get some rules things wrong; this is a complicated game! For a review of our experience, check out <a href="https://www.drivethrurpg.com/product/344245/Parallel-Worlds-Issue-18">Parallel Worlds Issue #18</a>.</p>]]></description>
+      <googleplay:description><![CDATA[<p>Welcome to Season 2, Episode 4 of Parallel Roles! With this show, we are playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our second season, we are using the new Cyberpunk RED system, and playing a campaign called Chrome Stars in the techno-grimdark world of Night City. In our fourth episode, Cali takes off her helmet, Rake goes hardcore, and Shielder is just <em>done</em> with all of it.</p>
+<p><strong>CONTENT WARNING</strong>: this episode and this season include references to police violence and human trafficking that could be triggering for some listeners.</p>
+<p>For this season, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Side-Note: Yes, we are aware that we get some rules things wrong; this is a complicated game! For a review of our experience, check out <a href="https://www.drivethrurpg.com/product/344245/Parallel-Worlds-Issue-18">Parallel Worlds Issue #18</a>.</p>]]></googleplay:description>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Chrome_Stars_4_8d2f607941.mp3" length="96349824" type="audio/mpeg"/>
+      <guid isPermaLink="false">parallel-roles-season-2-episode-4</guid>
+      <pubDate>Tue, 29 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>01:40:21</itunes:duration>
+      <itunes:keywords>Cyberpunk-RED sci-fi TTRPG Let's-play</itunes:keywords>
+      <itunes:explicit>true</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-roles-season-2-episode-4</link>
+    </item>
+    <item>
+      <title>Parallel Roles Season 2 Episode 3</title>
+      <itunes:subtitle>Chrome Stars</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/SM_template_podcast_da2a7f8029.png"/>
+      <itunes:summary><![CDATA[<p>Welcome to Season 2, Episode 3 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our second season, we are using the new Cyberpunk RED system, and playing a campaign called Chrome Stars in the techno-grimdark world of Night City. In our third episode, Cali and Rake get called into the captain's office, get some new jobs, and reunite with an old acquaintance—well, part of them, anyway.</p>
+<p><strong>CONTENT WARNING</strong>: this episode and this season include references to police violence and human trafficking that could be triggering for some listeners.</p>
+<p>For this season, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Side-Note: Yes, we are aware that we get some rules things wrong; this is a complicated game! For a review of our experience, check out <a href="https://www.drivethrurpg.com/product/344245/Parallel-Worlds-Issue-18">Parallel Worlds Issue #18</a>.</p>]]></itunes:summary>
+      <description><![CDATA[<p>Welcome to Season 2, Episode 3 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our second season, we are using the new Cyberpunk RED system, and playing a campaign called Chrome Stars in the techno-grimdark world of Night City. In our third episode, Cali and Rake get called into the captain's office, get some new jobs, and reunite with an old acquaintance—well, part of them, anyway.</p>
+<p><strong>CONTENT WARNING</strong>: this episode and this season include references to police violence and human trafficking that could be triggering for some listeners.</p>
+<p>For this season, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Side-Note: Yes, we are aware that we get some rules things wrong; this is a complicated game! For a review of our experience, check out <a href="https://www.drivethrurpg.com/product/344245/Parallel-Worlds-Issue-18">Parallel Worlds Issue #18</a>.</p>]]></description>
+      <googleplay:description><![CDATA[<p>Welcome to Season 2, Episode 3 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our second season, we are using the new Cyberpunk RED system, and playing a campaign called Chrome Stars in the techno-grimdark world of Night City. In our third episode, Cali and Rake get called into the captain's office, get some new jobs, and reunite with an old acquaintance—well, part of them, anyway.</p>
+<p><strong>CONTENT WARNING</strong>: this episode and this season include references to police violence and human trafficking that could be triggering for some listeners.</p>
+<p>For this season, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Side-Note: Yes, we are aware that we get some rules things wrong; this is a complicated game! For a review of our experience, check out <a href="https://www.drivethrurpg.com/product/344245/Parallel-Worlds-Issue-18">Parallel Worlds Issue #18</a>.</p>]]></googleplay:description>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Chrome_Stars_3_6e78e8d394.mp3" length="96528926" type="audio/mpeg"/>
+      <guid isPermaLink="false">parallel-roles-season-2-episode-3</guid>
+      <pubDate>Tue, 15 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>01:40:33</itunes:duration>
+      <itunes:keywords>Cyberpunk-RED sci-fi TTRPG Let's-play</itunes:keywords>
+      <itunes:explicit>true</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-roles-season-2-episode-3</link>
+    </item>
+    <item>
+      <title>Parallel Roles Season 2 Episode 2</title>
+      <itunes:subtitle>Chrome Stars</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/SM_template_podcast_da2a7f8029.png"/>
+      <itunes:summary><![CDATA[<p>Welcome to Season 2, Episode 2 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our second season, we are using the new Cyberpunk RED system, and playing a campaign called Chrome Stars in the techno-grimdark world of Night City. In our second episode, Rake and Zachery Shielder revisit some old friends and get up to some shifty business. </p>
+<p><strong>CONTENT WARNING</strong>: this episode and this season include references to police violence and human trafficking that could be triggering for some listeners.</p>
+<p>For this season, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Side-Note: Yes, we are aware that we get some rules things wrong; this is a complicated game! For a review of our experience, check out <a href="https://www.drivethrurpg.com/product/344245/Parallel-Worlds-Issue-18">Parallel Worlds Issue #18</a>.</p>]]></itunes:summary>
+      <description><![CDATA[<p>Welcome to Season 2, Episode 2 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our second season, we are using the new Cyberpunk RED system, and playing a campaign called Chrome Stars in the techno-grimdark world of Night City. In our second episode, Rake and Zachery Shielder revisit some old friends and get up to some shifty business. </p>
+<p><strong>CONTENT WARNING</strong>: this episode and this season include references to police violence and human trafficking that could be triggering for some listeners.</p>
+<p>For this season, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Side-Note: Yes, we are aware that we get some rules things wrong; this is a complicated game! For a review of our experience, check out <a href="https://www.drivethrurpg.com/product/344245/Parallel-Worlds-Issue-18">Parallel Worlds Issue #18</a>.</p>]]></description>
+      <googleplay:description><![CDATA[<p>Welcome to Season 2, Episode 2 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our second season, we are using the new Cyberpunk RED system, and playing a campaign called Chrome Stars in the techno-grimdark world of Night City. In our second episode, Rake and Zachery Shielder revisit some old friends and get up to some shifty business. </p>
+<p><strong>CONTENT WARNING</strong>: this episode and this season include references to police violence and human trafficking that could be triggering for some listeners.</p>
+<p>For this season, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Side-Note: Yes, we are aware that we get some rules things wrong; this is a complicated game! For a review of our experience, check out <a href="https://www.drivethrurpg.com/product/344245/Parallel-Worlds-Issue-18">Parallel Worlds Issue #18</a>.</p>]]></googleplay:description>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Chrome_Stars_2_4773bd7c08.mp3" length="107519163" type="audio/mpeg"/>
+      <guid isPermaLink="false">parallel-roles-season-2-episode-2</guid>
+      <pubDate>Tue, 08 Jun 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>01:51:59</itunes:duration>
+      <itunes:keywords>Cyberpunk-RED sci-fi TTRPG Let's-play</itunes:keywords>
+      <itunes:explicit>true</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-roles-season-2-episode-2</link>
+    </item>
+    <item>
+      <title>Parallel Roles Season 2 Episode 1</title>
+      <itunes:subtitle>Chrome Stars</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/SM_template_podcast_da2a7f8029.png"/>
+      <itunes:summary><![CDATA[<p>Welcome to Season 2, Episode 1 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our second season, we are using the new Cyberpunk RED system, and playing a campaign called Chrome Stars in the techno-grimdark world of Night City. In this game, Angus is GMing, and we’re welcoming Sam to the team while Tom takes a season off. In the first episode, our under-resourced cops—Rake, Cali, and Zachery Shielder—investigate a warehouse where shady deals are going down! </p>
+<p><strong>CONTENT WARNING</strong> for our American audience: this episode and this season include verbal descriptions of police violence that could be triggering for some listeners.</p>
+<p>For this season, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>
+<p>Side-Note: Yes, we are aware that we get some rules things wrong; this is a complicated game! For a review of our experience, check out <a href="https://www.drivethrurpg.com/product/344245/Parallel-Worlds-Issue-18">Parallel Worlds Issue #18</a>.</p>]]></itunes:summary>
+      <description><![CDATA[<p>Welcome to Season 2, Episode 1 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our second season, we are using the new Cyberpunk RED system, and playing a campaign called Chrome Stars in the techno-grimdark world of Night City. In this game, Angus is GMing, and we’re welcoming Sam to the team while Tom takes a season off. In the first episode, our under-resourced cops—Rake, Cali, and Zachery Shielder—investigate a warehouse where shady deals are going down! </p>
+<p><strong>CONTENT WARNING</strong> for our American audience: this episode and this season include verbal descriptions of police violence that could be triggering for some listeners.</p>
+<p>For this season, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>
+<p>Side-Note: Yes, we are aware that we get some rules things wrong; this is a complicated game! For a review of our experience, check out <a href="https://www.drivethrurpg.com/product/344245/Parallel-Worlds-Issue-18">Parallel Worlds Issue #18</a>.</p>]]></description>
+      <googleplay:description><![CDATA[<p>Welcome to Season 2, Episode 1 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our second season, we are using the new Cyberpunk RED system, and playing a campaign called Chrome Stars in the techno-grimdark world of Night City. In this game, Angus is GMing, and we’re welcoming Sam to the team while Tom takes a season off. In the first episode, our under-resourced cops—Rake, Cali, and Zachery Shielder—investigate a warehouse where shady deals are going down! </p>
+<p><strong>CONTENT WARNING</strong> for our American audience: this episode and this season include verbal descriptions of police violence that could be triggering for some listeners.</p>
+<p>For this season, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>
+<p>Side-Note: Yes, we are aware that we get some rules things wrong; this is a complicated game! For a review of our experience, check out <a href="https://www.drivethrurpg.com/product/344245/Parallel-Worlds-Issue-18">Parallel Worlds Issue #18</a>.</p>]]></googleplay:description>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Chrome_Stars_1_dae4590e90.mp3" length="109952521" type="audio/mpeg"/>
+      <guid isPermaLink="false">parallel-roles-season-2-episode-1</guid>
+      <pubDate>Tue, 01 Jun 2021 13:00:00 +0000</pubDate>
+      <itunes:duration>01:54:32</itunes:duration>
+      <itunes:keywords>Cyberpunk Science-Fiction TTRPG Let's-play</itunes:keywords>
+      <itunes:explicit>true</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-roles-season-2-episode-1</link>
+    </item>
+    <item>
+      <title>Parallel Roles Season 1 Episode 6 (Finale)</title>
+      <itunes:subtitle>The War at the End of the World</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/SM_template_podcast_da2a7f8029.png"/>
+      <itunes:summary><![CDATA[<p>Welcome to episode 6 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, of which this episode is the finale, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. In the final episode of Season One, Shax demands to speak to the manager, Cupboard strikes a deal, and No Affinity learns what it means to Blav(ian)!</p>
+<p>In our second season, we will be delving into the world of Cyberpunk Red with Angus as our Gamemaster. We hope you join us!</p>
+<p>For this season and the next, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></itunes:summary>
+      <description><![CDATA[<p>Welcome to episode 6 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, of which this episode is the finale, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. In the final episode of Season One, Shax demands to speak to the manager, Cupboard strikes a deal, and No Affinity learns what it means to Blav(ian)!</p>
+<p>In our second season, we will be delving into the world of Cyberpunk Red with Angus as our Gamemaster. We hope you join us!</p>
+<p>For this season and the next, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></description>
+      <googleplay:description><![CDATA[<p>Welcome to episode 6 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, of which this episode is the finale, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. In the final episode of Season One, Shax demands to speak to the manager, Cupboard strikes a deal, and No Affinity learns what it means to Blav(ian)!</p>
+<p>In our second season, we will be delving into the world of Cyberpunk Red with Angus as our Gamemaster. We hope you join us!</p>
+<p>For this season and the next, we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></googleplay:description>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/We_W_6_ee7fb357c2.mp3" length="259701027" type="audio/mpeg"/>
+      <guid isPermaLink="false">parallel-roles-season-1-episode-6</guid>
+      <pubDate>Tue, 25 May 2021 16:00:00 +0000</pubDate>
+      <itunes:duration>01:48:12</itunes:duration>
+      <itunes:keywords>D&amp;D 5e fantasy TTRPG Let's-play</itunes:keywords>
+      <itunes:explicit>true</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-roles-season-1-episode-6-finale</link>
+    </item>
+    <item>
+      <title>Parallel Roles Season 1 Episode 5</title>
+      <itunes:subtitle>The War at the End of the World</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/SM_template_podcast_da2a7f8029.png"/>
+      <itunes:summary><![CDATA[<p>Welcome to episode 5 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. In the semifinal episode of season one, our heroes attend a party, Cupboard makes his pitch, Shax nearly loses one of her nine lives, and Barsayus makes his choice! Apologies for Ben's microphone cutting in and out, he wasn't recording in the best location.</p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></itunes:summary>
+      <description><![CDATA[<p>Welcome to episode 5 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. In the semifinal episode of season one, our heroes attend a party, Cupboard makes his pitch, Shax nearly loses one of her nine lives, and Barsayus makes his choice! Apologies for Ben's microphone cutting in and out, he wasn't recording in the best location.</p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></description>
+      <googleplay:description><![CDATA[<p>Welcome to episode 5 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. In the semifinal episode of season one, our heroes attend a party, Cupboard makes his pitch, Shax nearly loses one of her nine lives, and Barsayus makes his choice! Apologies for Ben's microphone cutting in and out, he wasn't recording in the best location.</p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></googleplay:description>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/WEW_5_dc29b37c16.mp3" length="380932800" type="audio/mpeg"/>
+      <guid isPermaLink="false">parallel-roles-season-1-episode-5</guid>
+      <pubDate>Sun, 11 Apr 2021 18:30:00 +0000</pubDate>
+      <itunes:duration>02:38:43</itunes:duration>
+      <itunes:keywords>D&amp;D 5e fantasy TTRPG Let's-play</itunes:keywords>
+      <itunes:explicit>true</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-roles-season-1-episode-5</link>
+    </item>
+    <item>
+      <title>Parallel Roles Season 1 Episode 4</title>
+      <itunes:subtitle>The War at the End of the World</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/SM_template_podcast_da2a7f8029.png"/>
+      <itunes:summary><![CDATA[<p>Welcome to episode 4 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. In this second part of No Affinity's investigation of the Flaxenstrand Festival, our heroes face off against the legendary Horned Horror and his dreadful perytons. Shax catches a rat, Barsayus rides a person, and Cupboard takes his shirt off (be grateful this isn't a visual medium)!</p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></itunes:summary>
+      <description><![CDATA[<p>Welcome to episode 4 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. In this second part of No Affinity's investigation of the Flaxenstrand Festival, our heroes face off against the legendary Horned Horror and his dreadful perytons. Shax catches a rat, Barsayus rides a person, and Cupboard takes his shirt off (be grateful this isn't a visual medium)!</p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></description>
+      <googleplay:description><![CDATA[<p>Welcome to episode 4 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. In this second part of No Affinity's investigation of the Flaxenstrand Festival, our heroes face off against the legendary Horned Horror and his dreadful perytons. Shax catches a rat, Barsayus rides a person, and Cupboard takes his shirt off (be grateful this isn't a visual medium)!</p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></googleplay:description>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_RPG_Wat_Eot_W4_4d708251e7.mp3" length="295513860" type="audio/mpeg"/>
+      <guid isPermaLink="false">parallel-roles-season-1-episode-4</guid>
+      <pubDate>Fri, 02 Apr 2021 20:00:00 +0000</pubDate>
+      <itunes:duration>02:03:07</itunes:duration>
+      <itunes:keywords>D&amp;D 5e fantasy TTRPG Let's-play</itunes:keywords>
+      <itunes:explicit>true</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-roles-season-1-episode-4</link>
+    </item>
+    <item>
+      <title>Parallel Roles Season 1 Episode 3</title>
+      <itunes:subtitle>The War at the End of the World</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/SM_template_podcast_da2a7f8029.png"/>
+      <itunes:summary><![CDATA[<p>Welcome to episode 3 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. We begin with a brief recap covering our "lost" episode 2, then Shax, Barsayus, and Cupboard—having formed a new team called No Affinity—head to Garrodin City's Annual Flaxenstrand Festival, to hunt down a dreadful mercenary named the Horned Horror and recover his ancient treasure.</p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></itunes:summary>
+      <description><![CDATA[<p>Welcome to episode 3 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. We begin with a brief recap covering our "lost" episode 2, then Shax, Barsayus, and Cupboard—having formed a new team called No Affinity—head to Garrodin City's Annual Flaxenstrand Festival, to hunt down a dreadful mercenary named the Horned Horror and recover his ancient treasure.</p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></description>
+      <googleplay:description><![CDATA[<p>Welcome to episode 3 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. We begin with a brief recap covering our "lost" episode 2, then Shax, Barsayus, and Cupboard—having formed a new team called No Affinity—head to Garrodin City's Annual Flaxenstrand Festival, to hunt down a dreadful mercenary named the Horned Horror and recover his ancient treasure.</p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="00:00:18" title="Episode 2 Recap"/>
+        <psc:chapter start="00:06:32" title="Episode 3 Begins"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_RPG_Wat_Eot_W3_7fc9f1f6c5.mp3" length="296103182" type="audio/mpeg"/>
+      <guid isPermaLink="false">parallel-roles-season-1-episode-3</guid>
+      <pubDate>Fri, 26 Mar 2021 20:00:00 +0000</pubDate>
+      <itunes:duration>02:03:22</itunes:duration>
+      <itunes:keywords>D&amp;D 5e fantasy TTRPG Let's-play</itunes:keywords>
+      <itunes:explicit>true</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-roles-season-1-episode-3</link>
+    </item>
+    <item>
+      <title>Parallel Roles Season 1 Episode 1.5</title>
+      <itunes:subtitle>The War at the End of the World</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/SM_template_podcast_da2a7f8029.png"/>
+      <itunes:summary><![CDATA[<p>Welcome to episode 1.5 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. In this brief session, with two players absent, Cupboard the bard and Barsayus the monk engage in a daring desert rescue alongside Zebidi the Benefactor! </p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></itunes:summary>
+      <description><![CDATA[<p>Welcome to episode 1.5 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. In this brief session, with two players absent, Cupboard the bard and Barsayus the monk engage in a daring desert rescue alongside Zebidi the Benefactor! </p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></description>
+      <googleplay:description><![CDATA[<p>Welcome to episode 1.5 of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. In this brief session, with two players absent, Cupboard the bard and Barsayus the monk engage in a daring desert rescue alongside Zebidi the Benefactor! </p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></googleplay:description>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_RPG_Wat_Eot_W1_5_1fe87fcc95.mp3" length="144812407" type="audio/mpeg"/>
+      <guid isPermaLink="false">parallel-roles-season-1-episode-1-5</guid>
+      <pubDate>Fri, 19 Mar 2021 20:00:00 +0000</pubDate>
+      <itunes:duration>01:00:20</itunes:duration>
+      <itunes:keywords>D&amp;D 5e fantasy TTRPG Let's-play</itunes:keywords>
+      <itunes:explicit>true</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-roles-season-1-episode-1-5</link>
+    </item>
+    <item>
+      <title>Parallel Roles Season 1 Episode 1</title>
+      <itunes:subtitle>The War at the End of the World</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/SM_template_podcast_da2a7f8029.png"/>
+      <itunes:summary><![CDATA[<p>Welcome to the pilot episode of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. Please join Shax the tabaxi, Cupboard the goblin, Bryngor the bugbear, and Barsayus the human as they traverse the dying land of Evar!</p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></itunes:summary>
+      <description><![CDATA[<p>Welcome to the pilot episode of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. Please join Shax the tabaxi, Cupboard the goblin, Bryngor the bugbear, and Barsayus the human as they traverse the dying land of Evar!</p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></description>
+      <googleplay:description><![CDATA[<p>Welcome to the pilot episode of our new podcast, Parallel Roles! With this show, we will be playing tabletop roleplaying games (TTRPGs) in short, half-dozen episode "seasons" exploring various game systems.</p>
+<p>In our first season, we are using 5th edition Dungeons &amp; Dragons and presenting a homebrew campaign, the War at the End of the World. Please join Shax the tabaxi, Cupboard the goblin, Bryngor the bugbear, and Barsayus the human as they traverse the dying land of Evar!</p>
+<p>For this season and the next (which will be using Cyberpunk Red), we will be releasing the episodes in podcast form; starting in Season 3, however, we will be streaming our episodes on Twitch and other platforms. More information on that to come. Please enjoy and share with your friends!</p>
+<p>Also, please check out our magazine, Parallel Worlds, on <a href="https://www.parallelworlds.uk/">our website</a> or on <a href="https://www.drivethrurpg.com/browse/pub/17835/Parallel-Publishing">DrivethruRPG</a></p>
+<p>Note: For the first season and a half, you will hear us refer to the show as "Parallel Wars." This was our first title, but it didn't really work, so we changed it!</p>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="00:00:00" title="Intro"/>
+        <psc:chapter start="00:03:53" title="Session 0"/>
+        <psc:chapter start="00:12:23" title="How 5th Edition Works"/>
+        <psc:chapter start="00:14:49" title="The Adventure Begins"/>
+        <psc:chapter start="01:55:47" title="Outro"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_RPG_Wat_Eot_W1_D2_31c322f013.mp3" length="111944901" type="audio/mpeg"/>
+      <guid isPermaLink="false">parallel-roles-season-1-episode-1</guid>
+      <pubDate>Fri, 12 Mar 2021 21:00:00 +0000</pubDate>
+      <itunes:duration>01:56:52</itunes:duration>
+      <itunes:keywords>D&amp;D 5e fantasy TTRPG Let's-play</itunes:keywords>
+      <itunes:explicit>true</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-roles-season-1-episode-1</link>
+    </item>
+    <item>
+      <title>Parallel Worlds Issue 14</title>
+      <itunes:subtitle>October 2020</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/Podcast_14_5189c3b79d.png"/>
+      <itunes:summary><![CDATA[<p>In this issue, we revisit one of Asimov's science fiction classics, get to grips with the Judge Dredd tabletop game, discuss setting in roleplaying, review another cracking board game, continue our fiction serial Acid - and much more!</p>
+<ul>
+<li>00:00:18 - The quiet war: exploring the Polity novels of Neal Asher</li>
+<li>00:14:27 - Classics of sci-fi: The Gods Themselves</li>
+<li>00:20:08 - Dredd from the Big Meg: the Judge Dredd tabletop game</li>
+<li>00:33:07 - Gamesmasterclass: journey or location?</li>
+<li>00:44:48 - Review: Cowboy Bebop: Space Serenade</li>
+<li>00:50:57 - Acid, chapter 6</li>
+</ul>]]></itunes:summary>
+      <description><![CDATA[<p>In this issue, we revisit one of Asimov's science fiction classics, get to grips with the Judge Dredd tabletop game, discuss setting in roleplaying, review another cracking board game, continue our fiction serial Acid - and much more!</p>
+<ul>
+<li>00:00:18 - The quiet war: exploring the Polity novels of Neal Asher</li>
+<li>00:14:27 - Classics of sci-fi: The Gods Themselves</li>
+<li>00:20:08 - Dredd from the Big Meg: the Judge Dredd tabletop game</li>
+<li>00:33:07 - Gamesmasterclass: journey or location?</li>
+<li>00:44:48 - Review: Cowboy Bebop: Space Serenade</li>
+<li>00:50:57 - Acid, chapter 6</li>
+</ul>]]></description>
+      <googleplay:description><![CDATA[<p>In this issue, we revisit one of Asimov's science fiction classics, get to grips with the Judge Dredd tabletop game, discuss setting in roleplaying, review another cracking board game, continue our fiction serial Acid - and much more!</p>
+<ul>
+<li>00:00:18 - The quiet war: exploring the Polity novels of Neal Asher</li>
+<li>00:14:27 - Classics of sci-fi: The Gods Themselves</li>
+<li>00:20:08 - Dredd from the Big Meg: the Judge Dredd tabletop game</li>
+<li>00:33:07 - Gamesmasterclass: journey or location?</li>
+<li>00:44:48 - Review: Cowboy Bebop: Space Serenade</li>
+<li>00:50:57 - Acid, chapter 6</li>
+</ul>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="00:00:18" title="The quiet war: exploring the Polity novels of Neal Asher"/>
+        <psc:chapter start="00:14:27" title="Classics of sci-fi: The Gods Themselves"/>
+        <psc:chapter start="00:20:08" title="Dredd from the Big Meg: the Judge Dredd tabletop game"/>
+        <psc:chapter start="00:33:07" title="Gamesmasterclass: journey or location?"/>
+        <psc:chapter start="00:44:48" title="Review: Cowboy Bebop: Space Serenade"/>
+        <psc:chapter start="00:50:57" title="Acid, chapter 6"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Issue_14_43e0c71e31.mp3" length="71493469" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=2243</guid>
+      <pubDate>Fri, 16 Oct 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>01:14:34</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Magazine</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-worlds-issue-14</link>
+    </item>
+    <item>
+      <title>Parallel Worlds Issue 13</title>
+      <itunes:subtitle>September 2020</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/Podcast_13_8aa6df0dae.png"/>
+      <itunes:summary><![CDATA[<p>In Issue 13, we delve into a very 20th century mythology; roleplay in Rogue Trader; continue our guide for gamesmasters; revisit Frank Herbert’s Dune; continue our fiction serial, Acid; and ask: what exactly went on in Twin Peaks?</p>
+<ul>
+<li>00:00:18 - Superheroes: the modern western mythology</li>
+<li>00:11:15 - Let's rogue trade! Roleplaying in Warhammer 40,000</li>
+<li>00:22:51 - Classics of science fiction: Dune</li>
+<li>00:26:41 - Gamesmasterclass: they know more than me</li>
+<li>00:38:07 - Twin Peaks - what did I just watch?</li>
+<li>00:55:20 - Acid, chapter 5</li>
+</ul>]]></itunes:summary>
+      <description><![CDATA[<p>In Issue 13, we delve into a very 20th century mythology; roleplay in Rogue Trader; continue our guide for gamesmasters; revisit Frank Herbert’s Dune; continue our fiction serial, Acid; and ask: what exactly went on in Twin Peaks?</p>
+<ul>
+<li>00:00:18 - Superheroes: the modern western mythology</li>
+<li>00:11:15 - Let's rogue trade! Roleplaying in Warhammer 40,000</li>
+<li>00:22:51 - Classics of science fiction: Dune</li>
+<li>00:26:41 - Gamesmasterclass: they know more than me</li>
+<li>00:38:07 - Twin Peaks - what did I just watch?</li>
+<li>00:55:20 - Acid, chapter 5</li>
+</ul>]]></description>
+      <googleplay:description><![CDATA[<p>In Issue 13, we delve into a very 20th century mythology; roleplay in Rogue Trader; continue our guide for gamesmasters; revisit Frank Herbert’s Dune; continue our fiction serial, Acid; and ask: what exactly went on in Twin Peaks?</p>
+<ul>
+<li>00:00:18 - Superheroes: the modern western mythology</li>
+<li>00:11:15 - Let's rogue trade! Roleplaying in Warhammer 40,000</li>
+<li>00:22:51 - Classics of science fiction: Dune</li>
+<li>00:26:41 - Gamesmasterclass: they know more than me</li>
+<li>00:38:07 - Twin Peaks - what did I just watch?</li>
+<li>00:55:20 - Acid, chapter 5</li>
+</ul>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="00:00:18" title="Superheroes: the modern western mythology"/>
+        <psc:chapter start="00:11:15" title="Let's rogue trade! Roleplaying in Warhammer 40,000"/>
+        <psc:chapter start="00:22:51" title="Classics of science fiction: Dune"/>
+        <psc:chapter start="00:26:41" title="Gamesmasterclass: they know more than me"/>
+        <psc:chapter start="00:38:07" title="Twin Peaks - what did I just watch?"/>
+        <psc:chapter start="00:55:20" title="Acid, chapter 5"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Issue_13_3ed00c5257.mp3" length="75075596" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=2016</guid>
+      <pubDate>Tue, 08 Sep 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>01:15:41</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Magazine</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-worlds-issue-13</link>
+    </item>
+    <item>
+      <title>Parallel Worlds Issue 12</title>
+      <itunes:subtitle>August 2020</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/Podcast_12_3dad16db93.png"/>
+      <itunes:summary><![CDATA[<p>In Issue 12, we catch up on our brilliant serial Acid; take a look at the Terminator franchise; play a bit of Dropship Commander; continue our guide for gamesmasters; pilot some mechs; and discover Empires of the Void II</p>
+<ul>
+<li>00:00:18 - Was Terminator 2 a mistake?</li>
+<li>00:14:22 - Four Against Darkness: a solo roleplaying phenomenon</li>
+<li>00:25:17 - Enter the DropVerse</li>
+<li>00:33:45 - Gamesmasterclass: Your voice in the party</li>
+<li>00:45:50 - Evangelion: what did I just watch?</li>
+<li>01:08:20 - Review: Empires of the Void II</li>
+<li>01:14:28 - Original fiction: Acid, chapter 4</li>
+</ul>]]></itunes:summary>
+      <description><![CDATA[<p>In Issue 12, we catch up on our brilliant serial Acid; take a look at the Terminator franchise; play a bit of Dropship Commander; continue our guide for gamesmasters; pilot some mechs; and discover Empires of the Void II</p>
+<ul>
+<li>00:00:18 - Was Terminator 2 a mistake?</li>
+<li>00:14:22 - Four Against Darkness: a solo roleplaying phenomenon</li>
+<li>00:25:17 - Enter the DropVerse</li>
+<li>00:33:45 - Gamesmasterclass: Your voice in the party</li>
+<li>00:45:50 - Evangelion: what did I just watch?</li>
+<li>01:08:20 - Review: Empires of the Void II</li>
+<li>01:14:28 - Original fiction: Acid, chapter 4</li>
+</ul>]]></description>
+      <googleplay:description><![CDATA[<p>In Issue 12, we catch up on our brilliant serial Acid; take a look at the Terminator franchise; play a bit of Dropship Commander; continue our guide for gamesmasters; pilot some mechs; and discover Empires of the Void II</p>
+<ul>
+<li>00:00:18 - Was Terminator 2 a mistake?</li>
+<li>00:14:22 - Four Against Darkness: a solo roleplaying phenomenon</li>
+<li>00:25:17 - Enter the DropVerse</li>
+<li>00:33:45 - Gamesmasterclass: Your voice in the party</li>
+<li>00:45:50 - Evangelion: what did I just watch?</li>
+<li>01:08:20 - Review: Empires of the Void II</li>
+<li>01:14:28 - Original fiction: Acid, chapter 4</li>
+</ul>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="00:00:18" title="Was Terminator 2 a mistake?"/>
+        <psc:chapter start="00:14:22" title="Four Against Darkness: a solo roleplaying phenomenon"/>
+        <psc:chapter start="00:25:17" title="Enter the DropVerse"/>
+        <psc:chapter start="00:33:45" title="Gamesmasterclass: Your voice in the party"/>
+        <psc:chapter start="00:45:50" title="Evangelion: what did I just watch?"/>
+        <psc:chapter start="01:08:20" title="Review: Empires of the Void II"/>
+        <psc:chapter start="01:14:28" title="Original fiction: Acid, chapter 4"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Issue_12_c45da637a8.mp3" length="89337128" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=1901</guid>
+      <pubDate>Fri, 14 Aug 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>01:33:07</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Magazine</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-worlds-issue-12</link>
+    </item>
+    <item>
+      <title>Parallel Worlds Issue 11</title>
+      <itunes:subtitle>July 2020</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/Podcast_11_2f17da280a.png"/>
+      <itunes:summary><![CDATA[<p>In Issue 11, we leap into the concept of mobility in video games, make it up as we go along, revisit Mary Shelley’s Frankenstein, die several times in Outer Wilds, discover the steampunk world of Warmachine, review Journeys in Middle-earth and continue our gripping fiction serial, Acid.</p>
+<ul>
+<li>00:00:18 - Press A to jump: mobility in video games</li>
+<li>00:08:35 - Gamesmasterclass: the art of improvisation</li>
+<li>00:20:07 - Classics of science fiction: Frankenstein</li>
+<li>00:25:18 - I’ve been here before: playing Outer Wilds</li>
+<li>00:37:21 - No quarter: welcome to the Iron Kingdoms</li>
+<li>00:50:10 - Board game review: The Lord of the Rings: Journeys in Middle-earth</li>
+<li>00:55:39 - Original fiction: Acid, chapter 3</li>
+</ul>]]></itunes:summary>
+      <description><![CDATA[<p>In Issue 11, we leap into the concept of mobility in video games, make it up as we go along, revisit Mary Shelley’s Frankenstein, die several times in Outer Wilds, discover the steampunk world of Warmachine, review Journeys in Middle-earth and continue our gripping fiction serial, Acid.</p>
+<ul>
+<li>00:00:18 - Press A to jump: mobility in video games</li>
+<li>00:08:35 - Gamesmasterclass: the art of improvisation</li>
+<li>00:20:07 - Classics of science fiction: Frankenstein</li>
+<li>00:25:18 - I’ve been here before: playing Outer Wilds</li>
+<li>00:37:21 - No quarter: welcome to the Iron Kingdoms</li>
+<li>00:50:10 - Board game review: The Lord of the Rings: Journeys in Middle-earth</li>
+<li>00:55:39 - Original fiction: Acid, chapter 3</li>
+</ul>]]></description>
+      <googleplay:description><![CDATA[<p>In Issue 11, we leap into the concept of mobility in video games, make it up as we go along, revisit Mary Shelley’s Frankenstein, die several times in Outer Wilds, discover the steampunk world of Warmachine, review Journeys in Middle-earth and continue our gripping fiction serial, Acid.</p>
+<ul>
+<li>00:00:18 - Press A to jump: mobility in video games</li>
+<li>00:08:35 - Gamesmasterclass: the art of improvisation</li>
+<li>00:20:07 - Classics of science fiction: Frankenstein</li>
+<li>00:25:18 - I’ve been here before: playing Outer Wilds</li>
+<li>00:37:21 - No quarter: welcome to the Iron Kingdoms</li>
+<li>00:50:10 - Board game review: The Lord of the Rings: Journeys in Middle-earth</li>
+<li>00:55:39 - Original fiction: Acid, chapter 3</li>
+</ul>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="00:00:18" title="Press A to jump: mobility in video games"/>
+        <psc:chapter start="00:08:35" title="Gamesmasterclass: the art of improvisation"/>
+        <psc:chapter start="00:20:07" title="Classics of science fiction: Frankenstein"/>
+        <psc:chapter start="00:25:18" title="I’ve been here before: playing Outer Wilds"/>
+        <psc:chapter start="00:37:21" title="No quarter: welcome to the Iron Kingdoms"/>
+        <psc:chapter start="00:50:10" title="Board game review: The Lord of the Rings: Journeys in Middle-earth"/>
+        <psc:chapter start="00:55:39" title="Original fiction: Acid, chapter 3"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Issue_11_RC_2_42117e2aa7.mp3" length="70615492" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=1714</guid>
+      <pubDate>Tue, 14 Jul 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>01:13:34</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Magazine</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-worlds-issue-11</link>
+    </item>
+    <item>
+      <title>Parallel Worlds Issue 10</title>
+      <itunes:subtitle>June 2020</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/Podcast_10_3517c659ad.png"/>
+      <itunes:summary><![CDATA[<p>In Issue 10, we review a brilliant deckbuilder, evaluate Firefly, get to grips with Pathfinder, discover a brilliant French skirmish wargame, continue our excellent serial Acid, discuss worldbuilding, look back at one of Isaac Asimov’s greatest works, and introduce a wonderful new short story.</p>
+<ul>
+<li>00:00:18 - It's gorram over, Cap'n: why Firefly being cancelled was a good thing</li>
+<li>00:16:12 - Canon: exploring consistency in storytelling</li>
+<li>00:30:27 - Board game review: One Deck Dungeon and Forest of Shadows</li>
+<li>00:35:39 - Pathfinder: all the tools</li>
+<li>00:47:55 - Book review: Triggernometry</li>
+<li>00:51:07 - GamesMasterClass: creating your world</li>
+<li>01:02:41 - Acid, chapter two: a table set for one</li>
+<li>01:15:53 - Classics of science fiction: Foundation</li>
+<li>01:20:34 - Rackham's Confrontation</li>
+<li>01:32:02 - Original fiction: Misereri Mei</li>
+</ul>]]></itunes:summary>
+      <description><![CDATA[<p>In Issue 10, we review a brilliant deckbuilder, evaluate Firefly, get to grips with Pathfinder, discover a brilliant French skirmish wargame, continue our excellent serial Acid, discuss worldbuilding, look back at one of Isaac Asimov’s greatest works, and introduce a wonderful new short story.</p>
+<ul>
+<li>00:00:18 - It's gorram over, Cap'n: why Firefly being cancelled was a good thing</li>
+<li>00:16:12 - Canon: exploring consistency in storytelling</li>
+<li>00:30:27 - Board game review: One Deck Dungeon and Forest of Shadows</li>
+<li>00:35:39 - Pathfinder: all the tools</li>
+<li>00:47:55 - Book review: Triggernometry</li>
+<li>00:51:07 - GamesMasterClass: creating your world</li>
+<li>01:02:41 - Acid, chapter two: a table set for one</li>
+<li>01:15:53 - Classics of science fiction: Foundation</li>
+<li>01:20:34 - Rackham's Confrontation</li>
+<li>01:32:02 - Original fiction: Misereri Mei</li>
+</ul>]]></description>
+      <googleplay:description><![CDATA[<p>In Issue 10, we review a brilliant deckbuilder, evaluate Firefly, get to grips with Pathfinder, discover a brilliant French skirmish wargame, continue our excellent serial Acid, discuss worldbuilding, look back at one of Isaac Asimov’s greatest works, and introduce a wonderful new short story.</p>
+<ul>
+<li>00:00:18 - It's gorram over, Cap'n: why Firefly being cancelled was a good thing</li>
+<li>00:16:12 - Canon: exploring consistency in storytelling</li>
+<li>00:30:27 - Board game review: One Deck Dungeon and Forest of Shadows</li>
+<li>00:35:39 - Pathfinder: all the tools</li>
+<li>00:47:55 - Book review: Triggernometry</li>
+<li>00:51:07 - GamesMasterClass: creating your world</li>
+<li>01:02:41 - Acid, chapter two: a table set for one</li>
+<li>01:15:53 - Classics of science fiction: Foundation</li>
+<li>01:20:34 - Rackham's Confrontation</li>
+<li>01:32:02 - Original fiction: Misereri Mei</li>
+</ul>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="00:00:18" title="It's gorram over, Cap'n: why Firefly being cancelled was a good thing"/>
+        <psc:chapter start="00:16:12" title="Canon: exploring consistency in storytelling"/>
+        <psc:chapter start="00:30:27" title="Board game review: One Deck Dungeon and Forest of Shadows"/>
+        <psc:chapter start="00:35:39" title="Pathfinder: all the tools"/>
+        <psc:chapter start="00:47:55" title="Book review: Triggernometry"/>
+        <psc:chapter start="00:51:07" title="GamesMasterClass: creating your world"/>
+        <psc:chapter start="01:02:41" title="Acid, chapter two: a table set for one"/>
+        <psc:chapter start="01:15:53" title="Classics of Science Fiction: Foundation"/>
+        <psc:chapter start="01:20:34" title="Rackham's Confrontation"/>
+        <psc:chapter start="01:32:02" title="Original Fiction: Miserere Mei"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Issue_10_37f208258b.mp3" length="109794017" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=1468</guid>
+      <pubDate>Fri, 12 Jun 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>01:54:29</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Magazine</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-worlds-issue-10</link>
+    </item>
+    <item>
+      <title>Interview: Peter F. Hamilton</title>
+      <itunes:subtitle>June 2020 - Interviews</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/i_Tunes_02_53c5d3adf2.png"/>
+      <itunes:summary><![CDATA[<p>Peter F. Hamilton is a bestselling science fiction author based in Bristol. His work includes the Greg Mandel series, the Night’s Dawn trilogy, the Commonwealth Saga, short story collections, and the Salvation Sequence. We caught up with him as he launches a new novel, Salvation Lost. Interviewed by Rob Sawyers, edited by Peter Wotherspoon.</p>]]></itunes:summary>
+      <description><![CDATA[<p>Peter F. Hamilton is a bestselling science fiction author based in Bristol. His work includes the Greg Mandel series, the Night’s Dawn trilogy, the Commonwealth Saga, short story collections, and the Salvation Sequence. We caught up with him as he launches a new novel, Salvation Lost. Interviewed by Rob Sawyers, edited by Peter Wotherspoon.</p>]]></description>
+      <googleplay:description><![CDATA[<p>Peter F. Hamilton is a bestselling science fiction author based in Bristol. His work includes the Greg Mandel series, the Night’s Dawn trilogy, the Commonwealth Saga, short story collections, and the Salvation Sequence. We caught up with him as he launches a new novel, Salvation Lost. Interviewed by Rob Sawyers, edited by Peter Wotherspoon.</p>]]></googleplay:description>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Interview_01_Peter_F_Hamilton_be26229695.mp3" length="44987947" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=1465</guid>
+      <pubDate>Wed, 03 Jun 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>00:37:28</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Interview</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/interview-peter-f-hamilton</link>
+    </item>
+    <item>
+      <title>Parallel Worlds Issue 9</title>
+      <itunes:subtitle>May 2020</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/Podcast_09_42155a9eb6.png"/>
+      <itunes:summary><![CDATA[<p>This month, we scare ourselves to death with Junji Ito’s Uzumaki, discover a flat fantasy world, play a bit of Corvus Belli’s Infinity, rediscover a dungeon-crawler from 1989, catch up with Aliette de Bodard, dissect Altered Carbon Season 2, continue our Classics of Sci-Fi series, assemble an RPG party, review books and board games, and find out just what makes Mad Max special.</p>
+<ul>
+<li>00:00:19 - Editorial</li>
+<li>00:03:48 - Mad Max: 40 years of George Miller's road warrior</li>
+<li>00:18:10 - Interview: Aliette de Bodard</li>
+<li>00:24:10 - Cheap thrills: the value of video games</li>
+<li>00:35:37 - Gamesmasterclass: assembling the cast</li>
+<li>00:47:50 - Book review: Million Eyes</li>
+<li>00:53:37 - Infinite possibilities: Corvus Belli's Infinity</li>
+<li>01:06:00 - Uzumaki: the strange horror of Junji Ito</li>
+<li>01:20:51 - Review: 8Bit Box and Double Rumble</li>
+<li>01:26:50 - A guide to a flat, turtle-powered world: Terry Pratchett's Discworld</li>
+<li>01:32:56 - Mini of the month: Haruk Ironeye</li>
+<li>01:37:52 - Let's talk about Altered Carbon Season 2</li>
+<li>01:47:02 - Why Hero Quest is still amazing</li>
+<li>01:56:00 - Classics of science fiction: Flowers for Algernon</li>
+<li>02:02:38 - Acid Chapter 1: Tower of Light</li>
+</ul>]]></itunes:summary>
+      <description><![CDATA[<p>This month, we scare ourselves to death with Junji Ito’s Uzumaki, discover a flat fantasy world, play a bit of Corvus Belli’s Infinity, rediscover a dungeon-crawler from 1989, catch up with Aliette de Bodard, dissect Altered Carbon Season 2, continue our Classics of Sci-Fi series, assemble an RPG party, review books and board games, and find out just what makes Mad Max special.</p>
+<ul>
+<li>00:00:19 - Editorial</li>
+<li>00:03:48 - Mad Max: 40 years of George Miller's road warrior</li>
+<li>00:18:10 - Interview: Aliette de Bodard</li>
+<li>00:24:10 - Cheap thrills: the value of video games</li>
+<li>00:35:37 - Gamesmasterclass: assembling the cast</li>
+<li>00:47:50 - Book review: Million Eyes</li>
+<li>00:53:37 - Infinite possibilities: Corvus Belli's Infinity</li>
+<li>01:06:00 - Uzumaki: the strange horror of Junji Ito</li>
+<li>01:20:51 - Review: 8Bit Box and Double Rumble</li>
+<li>01:26:50 - A guide to a flat, turtle-powered world: Terry Pratchett's Discworld</li>
+<li>01:32:56 - Mini of the month: Haruk Ironeye</li>
+<li>01:37:52 - Let's talk about Altered Carbon Season 2</li>
+<li>01:47:02 - Why Hero Quest is still amazing</li>
+<li>01:56:00 - Classics of science fiction: Flowers for Algernon</li>
+<li>02:02:38 - Acid Chapter 1: Tower of Light</li>
+</ul>]]></description>
+      <googleplay:description><![CDATA[<p>This month, we scare ourselves to death with Junji Ito’s Uzumaki, discover a flat fantasy world, play a bit of Corvus Belli’s Infinity, rediscover a dungeon-crawler from 1989, catch up with Aliette de Bodard, dissect Altered Carbon Season 2, continue our Classics of Sci-Fi series, assemble an RPG party, review books and board games, and find out just what makes Mad Max special.</p>
+<ul>
+<li>00:00:19 - Editorial</li>
+<li>00:03:48 - Mad Max: 40 years of George Miller's road warrior</li>
+<li>00:18:10 - Interview: Aliette de Bodard</li>
+<li>00:24:10 - Cheap thrills: the value of video games</li>
+<li>00:35:37 - Gamesmasterclass: assembling the cast</li>
+<li>00:47:50 - Book review: Million Eyes</li>
+<li>00:53:37 - Infinite possibilities: Corvus Belli's Infinity</li>
+<li>01:06:00 - Uzumaki: the strange horror of Junji Ito</li>
+<li>01:20:51 - Review: 8Bit Box and Double Rumble</li>
+<li>01:26:50 - A guide to a flat, turtle-powered world: Terry Pratchett's Discworld</li>
+<li>01:32:56 - Mini of the month: Haruk Ironeye</li>
+<li>01:37:52 - Let's talk about Altered Carbon Season 2</li>
+<li>01:47:02 - Why Hero Quest is still amazing</li>
+<li>01:56:00 - Classics of science fiction: Flowers for Algernon</li>
+<li>02:02:38 - Acid Chapter 1: Tower of Light</li>
+</ul>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="00:00:19" title="Editorial"/>
+        <psc:chapter start="00:03:48" title="Mad Max: 40 years of George Miller's road warrior"/>
+        <psc:chapter start="00:18:10" title="Interview: Aliette de Bodard"/>
+        <psc:chapter start="00:24:10" title="Cheap thrills: the value of video games"/>
+        <psc:chapter start="00:35:37" title="Gamesmasterclass: assembling the cast"/>
+        <psc:chapter start="00:47:50" title="Book review: Million Eyes"/>
+        <psc:chapter start="00:53:37" title="Infinite possibilities: Corvus Belli's Infinity"/>
+        <psc:chapter start="01:06:00" title="Uzumaki: the strange horror of Junji Ito"/>
+        <psc:chapter start="01:20:51" title="Review: 8Bit Box and Double Rumble"/>
+        <psc:chapter start="01:26:50" title="A guide to a flat, turtle-powered world: Terry Pratchett's Discworld"/>
+        <psc:chapter start="01:32:56" title="Mini of the month: Haruk Ironeye"/>
+        <psc:chapter start="01:37:52" title="Let's talk about Altered Carbon Season 2"/>
+        <psc:chapter start="01:47:02" title="Why Hero Quest is still amazing"/>
+        <psc:chapter start="01:56:00" title="Classics of science fiction: Flowers for Algernon"/>
+        <psc:chapter start="02:02:38" title="Acid Chapter 1: Tower of Light"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Issue_09_3de339a0ef.mp3" length="133781208" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=1387</guid>
+      <pubDate>Fri, 08 May 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>02:19:31</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Magazine</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-worlds-issue-9</link>
+    </item>
+    <item>
+      <title>Parallel Worlds Issue 8</title>
+      <itunes:subtitle>April 2020</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/Podcast_08_c29dd4d9ee.png"/>
+      <itunes:summary><![CDATA[<p>This month, we catch 'em all, get to know the largest online community of D&amp;D artists, learn about roleplaying's most overlooked step, find out why space magic is so compelling, interview Anna Smith Spark and Isaac Childres, play some job simulators, and reassess the Star Wars prequels and Lost in Space. As ever, there's our usual range of book and board game reviews, as well as original fiction.</p>
+<ul>
+<li>00:00:17 - Editorial</li>
+<li>00:03:13 - Lost in Space: an enduring legacy of sci-fi brilliance</li>
+<li>00:17:29 - Space magic: the popularity and plausibility of the Future Mythic</li>
+<li>00:29:20 - Board game review: Res Arcana</li>
+<li>00:34:02 - Gamesmasterclass: session zero</li>
+<li>00:45:17 - The Star Wars prequels, reassessed</li>
+<li>00:55:13 - Book review: A Savage Generation</li>
+<li>00:58:32 - Interview: Anna Smith Spark</li>
+<li>01:18:39 - Frosthaven: the new game from Cephalofair</li>
+<li>01:26:06 - Book review: Shadows in the Stone</li>
+<li>01:31:55 - Pixellated honours: exploring video game 'achievements'</li>
+<li>01:38:20 - Know your community: D&amp;D Fantasy Art</li>
+<li>01:44:43 - Original fiction: The Stranger</li>
+<li>02:05:05 - Playing nine to five: job simulators</li>
+<li>02:15:43 - Mini of the month: the bard of Alahan</li>
+<li>02:20:23 - Book review: The Man in the Dark</li>
+<li>02:23:14 - Pokémon: the weird and the wonderful</li>
+</ul>]]></itunes:summary>
+      <description><![CDATA[<p>This month, we catch 'em all, get to know the largest online community of D&amp;D artists, learn about roleplaying's most overlooked step, find out why space magic is so compelling, interview Anna Smith Spark and Isaac Childres, play some job simulators, and reassess the Star Wars prequels and Lost in Space. As ever, there's our usual range of book and board game reviews, as well as original fiction.</p>
+<ul>
+<li>00:00:17 - Editorial</li>
+<li>00:03:13 - Lost in Space: an enduring legacy of sci-fi brilliance</li>
+<li>00:17:29 - Space magic: the popularity and plausibility of the Future Mythic</li>
+<li>00:29:20 - Board game review: Res Arcana</li>
+<li>00:34:02 - Gamesmasterclass: session zero</li>
+<li>00:45:17 - The Star Wars prequels, reassessed</li>
+<li>00:55:13 - Book review: A Savage Generation</li>
+<li>00:58:32 - Interview: Anna Smith Spark</li>
+<li>01:18:39 - Frosthaven: the new game from Cephalofair</li>
+<li>01:26:06 - Book review: Shadows in the Stone</li>
+<li>01:31:55 - Pixellated honours: exploring video game 'achievements'</li>
+<li>01:38:20 - Know your community: D&amp;D Fantasy Art</li>
+<li>01:44:43 - Original fiction: The Stranger</li>
+<li>02:05:05 - Playing nine to five: job simulators</li>
+<li>02:15:43 - Mini of the month: the bard of Alahan</li>
+<li>02:20:23 - Book review: The Man in the Dark</li>
+<li>02:23:14 - Pokémon: the weird and the wonderful</li>
+</ul>]]></description>
+      <googleplay:description><![CDATA[<p>This month, we catch 'em all, get to know the largest online community of D&amp;D artists, learn about roleplaying's most overlooked step, find out why space magic is so compelling, interview Anna Smith Spark and Isaac Childres, play some job simulators, and reassess the Star Wars prequels and Lost in Space. As ever, there's our usual range of book and board game reviews, as well as original fiction.</p>
+<ul>
+<li>00:00:17 - Editorial</li>
+<li>00:03:13 - Lost in Space: an enduring legacy of sci-fi brilliance</li>
+<li>00:17:29 - Space magic: the popularity and plausibility of the Future Mythic</li>
+<li>00:29:20 - Board game review: Res Arcana</li>
+<li>00:34:02 - Gamesmasterclass: session zero</li>
+<li>00:45:17 - The Star Wars prequels, reassessed</li>
+<li>00:55:13 - Book review: A Savage Generation</li>
+<li>00:58:32 - Interview: Anna Smith Spark</li>
+<li>01:18:39 - Frosthaven: the new game from Cephalofair</li>
+<li>01:26:06 - Book review: Shadows in the Stone</li>
+<li>01:31:55 - Pixellated honours: exploring video game 'achievements'</li>
+<li>01:38:20 - Know your community: D&amp;D Fantasy Art</li>
+<li>01:44:43 - Original fiction: The Stranger</li>
+<li>02:05:05 - Playing nine to five: job simulators</li>
+<li>02:15:43 - Mini of the month: the bard of Alahan</li>
+<li>02:20:23 - Book review: The Man in the Dark</li>
+<li>02:23:14 - Pokémon: the weird and the wonderful</li>
+</ul>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="00:00:17" title="Editorial"/>
+        <psc:chapter start="00:03:13" title="Lost in Space: an enduring legacy of sci-fi brilliance"/>
+        <psc:chapter start="00:17:29" title="Space magic: the popularity and plausibility of the Future Mythic"/>
+        <psc:chapter start="00:29:20" title="Board game review: Res Arcana"/>
+        <psc:chapter start="00:34:02" title="Gamesmasterclass: session zero"/>
+        <psc:chapter start="00:45:17" title="The Star Wars prequels, reassessed"/>
+        <psc:chapter start="00:55:13" title="Book review: A Savage Generation"/>
+        <psc:chapter start="00:58:32" title="Interview: Anna Smith Spark"/>
+        <psc:chapter start="01:18:39" title="Frosthaven: the new game from Cephalofair"/>
+        <psc:chapter start="01:26:06" title="Book review: Shadows in the Stone"/>
+        <psc:chapter start="01:31:55" title="Pixellated honours: exploring video game 'achievements'"/>
+        <psc:chapter start="01:38:20" title="Know your community: Dungeouns and Dragons Fantasy Art"/>
+        <psc:chapter start="01:44:43" title="Original fiction: The Stranger"/>
+        <psc:chapter start="02:05:05" title="Playing nine to five: job simulators"/>
+        <psc:chapter start="02:15:43" title="Mini of the month: the bard of Alahan"/>
+        <psc:chapter start="02:20:23" title="Book review: The Man in the Dark"/>
+        <psc:chapter start="02:23:14" title="Pokemon: the weird and the wonderful"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Issue_8_56705338c7.mp3" length="147938347" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=1258</guid>
+      <pubDate>Mon, 06 Apr 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>02:34:16</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Magazine</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-worlds-issue-8</link>
+    </item>
+    <item>
+      <title>Parallel Worlds Issue 7</title>
+      <itunes:subtitle>March 2020</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/Podcast_07_90b24acdcc.png"/>
+      <itunes:summary><![CDATA[<p>In this issue, we get to grips with the biggest franchise in wargaming, run an urban RPG, explore cosmic horror, attack some titans, play a bit of Disco Elysium, find out what Twitch has to do with RPGs, pick apart Star Trek: Picard, and review our usual books, games and films. There’s some original fiction, too.</p>
+<ul>
+<li>00:00:17 - Editorial</li>
+<li>00:01:38 - Why you should watch Attack on Titan</li>
+<li>00:12:20 - Classics of science fiction: The Left Hand of Darkness</li>
+<li>00:17:19 - Disco Elysium: roleplaying with me, myself, and I</li>
+<li>00:29:29 - Being an eBay eagle</li>
+<li>00:40:42 - Self-pub review: Kau D'varza</li>
+<li>00:45:20 - Visions of war: the grimdark of Warhammer 40,000</li>
+<li>01:01:48 - Coppers and cobblestones: running an urbancrawl campaign</li>
+<li>01:11:46 - Mini of the month: the machine is willing</li>
+<li>01:15:17 - Cosmic horror: the existential fiction we all need right now</li>
+<li>01:28:25 - Let’s talk about… Star Trek: Picard</li>
+<li>01:38:32 - Review: Legends Untold</li>
+<li>01:43:53 - Review: The Bestowal</li>
+<li>01:47:38 - Live streaming tabletop roleplaying games: a new immersive experience. Wacksteven is voiced by Tom Grundy.</li>
+<li>02:00:28 - Know your community: The Fantasy &amp; Sci-Fi Readers Lounge. Cheryllynn Dyess and Rennie St. James are voiced by Jamie Sugar.</li>
+<li>02:06:34 - Original fiction: Echoes</li>
+</ul>]]></itunes:summary>
+      <description><![CDATA[<p>In this issue, we get to grips with the biggest franchise in wargaming, run an urban RPG, explore cosmic horror, attack some titans, play a bit of Disco Elysium, find out what Twitch has to do with RPGs, pick apart Star Trek: Picard, and review our usual books, games and films. There’s some original fiction, too.</p>
+<ul>
+<li>00:00:17 - Editorial</li>
+<li>00:01:38 - Why you should watch Attack on Titan</li>
+<li>00:12:20 - Classics of science fiction: The Left Hand of Darkness</li>
+<li>00:17:19 - Disco Elysium: roleplaying with me, myself, and I</li>
+<li>00:29:29 - Being an eBay eagle</li>
+<li>00:40:42 - Self-pub review: Kau D'varza</li>
+<li>00:45:20 - Visions of war: the grimdark of Warhammer 40,000</li>
+<li>01:01:48 - Coppers and cobblestones: running an urbancrawl campaign</li>
+<li>01:11:46 - Mini of the month: the machine is willing</li>
+<li>01:15:17 - Cosmic horror: the existential fiction we all need right now</li>
+<li>01:28:25 - Let’s talk about… Star Trek: Picard</li>
+<li>01:38:32 - Review: Legends Untold</li>
+<li>01:43:53 - Review: The Bestowal</li>
+<li>01:47:38 - Live streaming tabletop roleplaying games: a new immersive experience. Wacksteven is voiced by Tom Grundy.</li>
+<li>02:00:28 - Know your community: The Fantasy &amp; Sci-Fi Readers Lounge. Cheryllynn Dyess and Rennie St. James are voiced by Jamie Sugar.</li>
+<li>02:06:34 - Original fiction: Echoes</li>
+</ul>]]></description>
+      <googleplay:description><![CDATA[<p>In this issue, we get to grips with the biggest franchise in wargaming, run an urban RPG, explore cosmic horror, attack some titans, play a bit of Disco Elysium, find out what Twitch has to do with RPGs, pick apart Star Trek: Picard, and review our usual books, games and films. There’s some original fiction, too.</p>
+<ul>
+<li>00:00:17 - Editorial</li>
+<li>00:01:38 - Why you should watch Attack on Titan</li>
+<li>00:12:20 - Classics of science fiction: The Left Hand of Darkness</li>
+<li>00:17:19 - Disco Elysium: roleplaying with me, myself, and I</li>
+<li>00:29:29 - Being an eBay eagle</li>
+<li>00:40:42 - Self-pub review: Kau D'varza</li>
+<li>00:45:20 - Visions of war: the grimdark of Warhammer 40,000</li>
+<li>01:01:48 - Coppers and cobblestones: running an urbancrawl campaign</li>
+<li>01:11:46 - Mini of the month: the machine is willing</li>
+<li>01:15:17 - Cosmic horror: the existential fiction we all need right now</li>
+<li>01:28:25 - Let’s talk about… Star Trek: Picard</li>
+<li>01:38:32 - Review: Legends Untold</li>
+<li>01:43:53 - Review: The Bestowal</li>
+<li>01:47:38 - Live streaming tabletop roleplaying games: a new immersive experience. Wacksteven is voiced by Tom Grundy.</li>
+<li>02:00:28 - Know your community: The Fantasy &amp; Sci-Fi Readers Lounge. Cheryllynn Dyess and Rennie St. James are voiced by Jamie Sugar.</li>
+<li>02:06:34 - Original fiction: Echoes</li>
+</ul>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="00:00:17" title="Editorial"/>
+        <psc:chapter start="00:01:38" title="Why you should watch Attack on Titan"/>
+        <psc:chapter start="00:12:20" title="Classics: The Left Hand of Darkness"/>
+        <psc:chapter start="00:17:19" title="Disco Elysium: roleplaying with me, myself and I"/>
+        <psc:chapter start="00:29:29" title="Being an eBay eagle"/>
+        <psc:chapter start="00:40:42" title="Self-pub review: Kay D'varza"/>
+        <psc:chapter start="00:45:20" title="Visions of war: the grimdark of Warhammer 40,000"/>
+        <psc:chapter start="01:01:48" title="Coppers and cobblestones: running an urbancrawl campaign"/>
+        <psc:chapter start="01:11:46" title="Mini of the month: the machine is willing"/>
+        <psc:chapter start="01:15:17" title="Cosmic horror: the existential fiction we al need right now"/>
+        <psc:chapter start="01:28:25" title="Let's talk about... Star Trek: Picard"/>
+        <psc:chapter start="01:38:32" title="Review: Untold Legends"/>
+        <psc:chapter start="01:43:53" title="Review: The Bestowal"/>
+        <psc:chapter start="01:47:38" title="Live streaming tabletop roleplaying games: a new immersive experience."/>
+        <psc:chapter start="02:00:28" title="Know your community: The Fantasy and Sci-Fi Readers lounge."/>
+        <psc:chapter start="02:06:34" title="Original fiction: Echoes"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Issue_7_d9d0231788.mp3" length="143579616" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=1213</guid>
+      <pubDate>Wed, 11 Mar 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>02:29:43</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Magazine</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-worlds-issue-7</link>
+    </item>
+    <item>
+      <title>Parallel Worlds Issue 6</title>
+      <itunes:subtitle>February 2020</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/Podcast_06_d626114b6a.png"/>
+      <itunes:summary><![CDATA[<p>In this issue, we revisit Babylon 5 to find out why it's still relevant, take sides in the culture war in our discussion on The Rise of Skywalker, get to know the organisers of the UK's largest wargaming convention, look back at nearly 100 years of Amazing Stories Magazine, choose our own adventure, buckle up for a BattleTech retrospective, and take a look at the biggest structures in fiction.</p>
+<ul>
+<li>00:00:18 - Editorial</li>
+<li>00:02:48 - Think bigger: megastructures</li>
+<li>00:12:42 - Faster my stompy robots: an introduction to BattleTech</li>
+<li>00:27:40 - Board game review: Lifeform. In space, no one can hear you check for rules clarifications</li>
+<li>00:33:33 - The Luminaries: choose your social media adventure</li>
+<li>00:44:53 - Book review: Children of Ruin</li>
+<li>00:49:00 - Play safe: consent in gaming</li>
+<li>00:59:44 - Mini of the month: Authorised Bounty Hunter</li>
+<li>01:03:25 - Pulp pioneers: Amazing Stories magazine</li>
+<li>01:09:55 - Why watch Babylon 5?</li>
+<li>01:22:00 - Creative equality: representation in science fiction and fantasy</li>
+<li>01:34:46 - Self-pub review</li>
+<li>01:40:46 - Original fiction: Lost at the Wedding</li>
+<li>01:56:36 - Let's talk about… Star Wars: The Rise of Skywalker</li>
+<li>02:10:48 - Know your community: the South London Warlords.</li>
+<li>02:17:22 - The mysterious case of Dentara Rast</li>
+</ul>]]></itunes:summary>
+      <description><![CDATA[<p>In this issue, we revisit Babylon 5 to find out why it's still relevant, take sides in the culture war in our discussion on The Rise of Skywalker, get to know the organisers of the UK's largest wargaming convention, look back at nearly 100 years of Amazing Stories Magazine, choose our own adventure, buckle up for a BattleTech retrospective, and take a look at the biggest structures in fiction.</p>
+<ul>
+<li>00:00:18 - Editorial</li>
+<li>00:02:48 - Think bigger: megastructures</li>
+<li>00:12:42 - Faster my stompy robots: an introduction to BattleTech</li>
+<li>00:27:40 - Board game review: Lifeform. In space, no one can hear you check for rules clarifications</li>
+<li>00:33:33 - The Luminaries: choose your social media adventure</li>
+<li>00:44:53 - Book review: Children of Ruin</li>
+<li>00:49:00 - Play safe: consent in gaming</li>
+<li>00:59:44 - Mini of the month: Authorised Bounty Hunter</li>
+<li>01:03:25 - Pulp pioneers: Amazing Stories magazine</li>
+<li>01:09:55 - Why watch Babylon 5?</li>
+<li>01:22:00 - Creative equality: representation in science fiction and fantasy</li>
+<li>01:34:46 - Self-pub review</li>
+<li>01:40:46 - Original fiction: Lost at the Wedding</li>
+<li>01:56:36 - Let's talk about… Star Wars: The Rise of Skywalker</li>
+<li>02:10:48 - Know your community: the South London Warlords.</li>
+<li>02:17:22 - The mysterious case of Dentara Rast</li>
+</ul>]]></description>
+      <googleplay:description><![CDATA[<p>In this issue, we revisit Babylon 5 to find out why it's still relevant, take sides in the culture war in our discussion on The Rise of Skywalker, get to know the organisers of the UK's largest wargaming convention, look back at nearly 100 years of Amazing Stories Magazine, choose our own adventure, buckle up for a BattleTech retrospective, and take a look at the biggest structures in fiction.</p>
+<ul>
+<li>00:00:18 - Editorial</li>
+<li>00:02:48 - Think bigger: megastructures</li>
+<li>00:12:42 - Faster my stompy robots: an introduction to BattleTech</li>
+<li>00:27:40 - Board game review: Lifeform. In space, no one can hear you check for rules clarifications</li>
+<li>00:33:33 - The Luminaries: choose your social media adventure</li>
+<li>00:44:53 - Book review: Children of Ruin</li>
+<li>00:49:00 - Play safe: consent in gaming</li>
+<li>00:59:44 - Mini of the month: Authorised Bounty Hunter</li>
+<li>01:03:25 - Pulp pioneers: Amazing Stories magazine</li>
+<li>01:09:55 - Why watch Babylon 5?</li>
+<li>01:22:00 - Creative equality: representation in science fiction and fantasy</li>
+<li>01:34:46 - Self-pub review</li>
+<li>01:40:46 - Original fiction: Lost at the Wedding</li>
+<li>01:56:36 - Let's talk about… Star Wars: The Rise of Skywalker</li>
+<li>02:10:48 - Know your community: the South London Warlords.</li>
+<li>02:17:22 - The mysterious case of Dentara Rast</li>
+</ul>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="00:00:17" title="Editorial"/>
+        <psc:chapter start="00:02:48" title="Think bigger: megastructures"/>
+        <psc:chapter start="00:12:42" title="Faster my stompy robots: an introduction to BattleTech"/>
+        <psc:chapter start="00:27:40" title="Board game review: Lifeform. In space, no one can hear you check for rules clarifications."/>
+        <psc:chapter start="00:33:33" title="The Luminaries: choose your social media adventure"/>
+        <psc:chapter start="00:44:53" title="Book review: Children of Ruin"/>
+        <psc:chapter start="00:49:00" title="Play safe: consent in gaming"/>
+        <psc:chapter start="00:59:44" title="Mini of the month: Authorised Bounty Hunter"/>
+        <psc:chapter start="01:03:25" title="Pulp pioneers: Amazing Stories magazine"/>
+        <psc:chapter start="01:09:55" title="Why watch Babylon 5?"/>
+        <psc:chapter start="01:22:00" title="Creative equality: representation in science fiction and fantasy"/>
+        <psc:chapter start="01:34:46" title="Self-pub review"/>
+        <psc:chapter start="01:40:46" title="Original fiction: Lost at the Wedding"/>
+        <psc:chapter start="01:56:36" title="Let's talk about... Star Wars: The Rise of Skywalker"/>
+        <psc:chapter start="02:10:48" title="Know your community: the South London Warlords."/>
+        <psc:chapter start="02:17:22" title="The mysterious case of Dentara Rast"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Issue_6_c5fb87ba56.mp3" length="142231062" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=1039</guid>
+      <pubDate>Fri, 07 Feb 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>02:28:21</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Magazine</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-worlds-issue-6</link>
+    </item>
+    <item>
+      <title>Parallel Worlds Issue 5</title>
+      <itunes:subtitle>January 2020</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/Podcast_05_e82a1e547f.png"/>
+      <itunes:summary><![CDATA[<p>In this issue, we're all about aliens: we look back at Ridley Scott's seminal 1979 film, scare ourselves silly in Alien: Isolation, and wonder just how common alien life is in our galaxy. We also interview horror writer Priya Sharma, continue our guides for gamesmasters, uncover a Chinese fantasy author you'll never have heard of, review books and board games, chat to one of the UK's thriving independent presses, muck around in Space Engineers, and assess Todd Phillips' Joker.</p>
+<ul>
+<li>00:00:32 - Editorial</li>
+<li>00:02:15 - The infinite hex crawl</li>
+<li>00:08:58 - Aliens: are they out there?</li>
+<li>00:23:52 - Board game review: The Quacks of Quedlinburg</li>
+<li>00:29:42 - Let's talk about… Joker</li>
+<li>00:41:04 - Mini of the month: the Abomination</li>
+<li>00:46:31 - Alien, revisited: how Ridley Scott reinvented science fiction</li>
+<li>00:56:27 - Original fiction: The Purpose</li>
+<li>01:08:27 - Generic adventure module: The Big Dumb Object</li>
+<li>01:23:03 - Interview: Priya Sharma. Priya is read by Jamie Sugar</li>
+<li>01:33:16 - Space Engineers: six years of building and blowing stuff up</li>
+<li>01:46:21 - Finding Jin Yong</li>
+<li>01:59:00 - Know your community: the Dungeons and Dragons Community Group</li>
+<li>02:04:10 - Alien Isolation - the perfect organism finally got its perfect game</li>
+<li>02:14:54 - Featured Publisher: Elsewhen Press. Peter is voiced by Karim Kronfli</li>
+</ul>]]></itunes:summary>
+      <description><![CDATA[<p>In this issue, we're all about aliens: we look back at Ridley Scott's seminal 1979 film, scare ourselves silly in Alien: Isolation, and wonder just how common alien life is in our galaxy. We also interview horror writer Priya Sharma, continue our guides for gamesmasters, uncover a Chinese fantasy author you'll never have heard of, review books and board games, chat to one of the UK's thriving independent presses, muck around in Space Engineers, and assess Todd Phillips' Joker.</p>
+<ul>
+<li>00:00:32 - Editorial</li>
+<li>00:02:15 - The infinite hex crawl</li>
+<li>00:08:58 - Aliens: are they out there?</li>
+<li>00:23:52 - Board game review: The Quacks of Quedlinburg</li>
+<li>00:29:42 - Let's talk about… Joker</li>
+<li>00:41:04 - Mini of the month: the Abomination</li>
+<li>00:46:31 - Alien, revisited: how Ridley Scott reinvented science fiction</li>
+<li>00:56:27 - Original fiction: The Purpose</li>
+<li>01:08:27 - Generic adventure module: The Big Dumb Object</li>
+<li>01:23:03 - Interview: Priya Sharma. Priya is read by Jamie Sugar</li>
+<li>01:33:16 - Space Engineers: six years of building and blowing stuff up</li>
+<li>01:46:21 - Finding Jin Yong</li>
+<li>01:59:00 - Know your community: the Dungeons and Dragons Community Group</li>
+<li>02:04:10 - Alien Isolation - the perfect organism finally got its perfect game</li>
+<li>02:14:54 - Featured Publisher: Elsewhen Press. Peter is voiced by Karim Kronfli</li>
+</ul>]]></description>
+      <googleplay:description><![CDATA[<p>In this issue, we're all about aliens: we look back at Ridley Scott's seminal 1979 film, scare ourselves silly in Alien: Isolation, and wonder just how common alien life is in our galaxy. We also interview horror writer Priya Sharma, continue our guides for gamesmasters, uncover a Chinese fantasy author you'll never have heard of, review books and board games, chat to one of the UK's thriving independent presses, muck around in Space Engineers, and assess Todd Phillips' Joker.</p>
+<ul>
+<li>00:00:32 - Editorial</li>
+<li>00:02:15 - The infinite hex crawl</li>
+<li>00:08:58 - Aliens: are they out there?</li>
+<li>00:23:52 - Board game review: The Quacks of Quedlinburg</li>
+<li>00:29:42 - Let's talk about… Joker</li>
+<li>00:41:04 - Mini of the month: the Abomination</li>
+<li>00:46:31 - Alien, revisited: how Ridley Scott reinvented science fiction</li>
+<li>00:56:27 - Original fiction: The Purpose</li>
+<li>01:08:27 - Generic adventure module: The Big Dumb Object</li>
+<li>01:23:03 - Interview: Priya Sharma. Priya is read by Jamie Sugar</li>
+<li>01:33:16 - Space Engineers: six years of building and blowing stuff up</li>
+<li>01:46:21 - Finding Jin Yong</li>
+<li>01:59:00 - Know your community: the Dungeons and Dragons Community Group</li>
+<li>02:04:10 - Alien Isolation - the perfect organism finally got its perfect game</li>
+<li>02:14:54 - Featured Publisher: Elsewhen Press. Peter is voiced by Karim Kronfli</li>
+</ul>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="0:00:00" title="Intro"/>
+        <psc:chapter start="0:00:32" title="Editorial"/>
+        <psc:chapter start="0:02:15" title="The infinite hex crawl"/>
+        <psc:chapter start="0:08:58" title="Aliens: are they out there?"/>
+        <psc:chapter start="0:23:52" title="Board game review: The Quacks of Quedlinburg"/>
+        <psc:chapter start="0:29:42" title="Let's talk about... Joker"/>
+        <psc:chapter start="0:41:04" title="Mini of the month: the Abomination"/>
+        <psc:chapter start="0:46:31" title="Alien, revisited: how Ridley Scott reinvented science fiction"/>
+        <psc:chapter start="0:56:27" title="Original fiction: The Purpose"/>
+        <psc:chapter start="1:08:27" title="Generic adventure module: The Big Dumb Object"/>
+        <psc:chapter start="1:23:03" title="Interview: Priya Sharma. Priya is read by Jamie Sugar"/>
+        <psc:chapter start="1:33:16" title="Space Engineers: six years of building and blowing stuff up"/>
+        <psc:chapter start="1:46:21" title="Finding Jin Yong"/>
+        <psc:chapter start="1:59:00" title="Know your community: the Dungeons and Dragons Community Group"/>
+        <psc:chapter start="2:04:10" title="Alien Isolation – the perfect organism finally got its perfect game"/>
+        <psc:chapter start="2:14:54" title="Featured Publisher: Elsewhen Press. Peter is voiced by Karim Kronfli"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Issue_5_adddfa0966.mp3" length="222361898" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=864</guid>
+      <pubDate>Sun, 12 Jan 2020 12:00:00 +0000</pubDate>
+      <itunes:duration>02:34:35</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Magazine</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-worlds-issue-5</link>
+    </item>
+    <item>
+      <title>Parallel Worlds Issue 4</title>
+      <itunes:subtitle>December 2019</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/Podcast_04_ccae20a83f.png"/>
+      <itunes:summary><![CDATA[<p>In this issue, we chat to video game legend Julian Gollop about Phoenix Point; investigate what happened to Half-Life 3; solve some murder mysteries; review Zombie Kidz, In Fabric, Fogbound, Ad Astra, The Majestic 311, Enemy Immortal, and It Chapter Two, look back at Fantasycon 2019, revisit Star Wars Rebels, and take a look at the ongoing development of Anthem. There's our usual smattering of original fiction, too.</p>
+<ul>
+<li>00:00:18 - Editorial</li>
+<li>00:01:58 - Interview: Julian Gollop</li>
+<li>00:09:23 - Board game review: Zombie Kidz Evolution</li>
+<li>00:14:47 - Generic adventure module: we found a body</li>
+<li>00:24:01 - Miniature of the month: Grak, warlord of the clan</li>
+<li>00:28:16 - Fantasycon 2019</li>
+<li>00:32:31 - Lambda cubed: the continuing mystery of Half-Life 3</li>
+<li>00:44:56 - Anthem: the game that nearly was</li>
+<li>00:57:28 - Self-pub roundup</li>
+<li>01:09:19 - Star Wars Rebels: a love letter to the fans</li>
+<li>01:24:44 - 2019 in horror cinema</li>
+<li>01:38:09 - Let's talk about… Ad Astra</li>
+<li>01:44:49 - Original fiction: Red 14</li>
+<li>01:53:17 - Original fiction: Lazaraki Canticles</li>
+</ul>]]></itunes:summary>
+      <description><![CDATA[<p>In this issue, we chat to video game legend Julian Gollop about Phoenix Point; investigate what happened to Half-Life 3; solve some murder mysteries; review Zombie Kidz, In Fabric, Fogbound, Ad Astra, The Majestic 311, Enemy Immortal, and It Chapter Two, look back at Fantasycon 2019, revisit Star Wars Rebels, and take a look at the ongoing development of Anthem. There's our usual smattering of original fiction, too.</p>
+<ul>
+<li>00:00:18 - Editorial</li>
+<li>00:01:58 - Interview: Julian Gollop</li>
+<li>00:09:23 - Board game review: Zombie Kidz Evolution</li>
+<li>00:14:47 - Generic adventure module: we found a body</li>
+<li>00:24:01 - Miniature of the month: Grak, warlord of the clan</li>
+<li>00:28:16 - Fantasycon 2019</li>
+<li>00:32:31 - Lambda cubed: the continuing mystery of Half-Life 3</li>
+<li>00:44:56 - Anthem: the game that nearly was</li>
+<li>00:57:28 - Self-pub roundup</li>
+<li>01:09:19 - Star Wars Rebels: a love letter to the fans</li>
+<li>01:24:44 - 2019 in horror cinema</li>
+<li>01:38:09 - Let's talk about… Ad Astra</li>
+<li>01:44:49 - Original fiction: Red 14</li>
+<li>01:53:17 - Original fiction: Lazaraki Canticles</li>
+</ul>]]></description>
+      <googleplay:description><![CDATA[<p>In this issue, we chat to video game legend Julian Gollop about Phoenix Point; investigate what happened to Half-Life 3; solve some murder mysteries; review Zombie Kidz, In Fabric, Fogbound, Ad Astra, The Majestic 311, Enemy Immortal, and It Chapter Two, look back at Fantasycon 2019, revisit Star Wars Rebels, and take a look at the ongoing development of Anthem. There's our usual smattering of original fiction, too.</p>
+<ul>
+<li>00:00:18 - Editorial</li>
+<li>00:01:58 - Interview: Julian Gollop</li>
+<li>00:09:23 - Board game review: Zombie Kidz Evolution</li>
+<li>00:14:47 - Generic adventure module: we found a body</li>
+<li>00:24:01 - Miniature of the month: Grak, warlord of the clan</li>
+<li>00:28:16 - Fantasycon 2019</li>
+<li>00:32:31 - Lambda cubed: the continuing mystery of Half-Life 3</li>
+<li>00:44:56 - Anthem: the game that nearly was</li>
+<li>00:57:28 - Self-pub roundup</li>
+<li>01:09:19 - Star Wars Rebels: a love letter to the fans</li>
+<li>01:24:44 - 2019 in horror cinema</li>
+<li>01:38:09 - Let's talk about… Ad Astra</li>
+<li>01:44:49 - Original fiction: Red 14</li>
+<li>01:53:17 - Original fiction: Lazaraki Canticles</li>
+</ul>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="0:00:00" title="Intro"/>
+        <psc:chapter start="00:00:18" title="Editorial"/>
+        <psc:chapter start="00:01:58" title="Interview: Julian Gollop"/>
+        <psc:chapter start="00:09:23" title="Board game review: Zombie Kidz Evolution"/>
+        <psc:chapter start="00:14:47" title="Generic adventure module: we found a body"/>
+        <psc:chapter start="00:24:01" title="Miniature of the month: Grak, warlord of the clan"/>
+        <psc:chapter start="00:28:16" title="Fantasycon 2019"/>
+        <psc:chapter start="00:32:31" title="Lambda cubed: the continuing mystery of Half-Life 3"/>
+        <psc:chapter start="00:44:56" title="Anthem: the game that nearly was"/>
+        <psc:chapter start="00:57:28" title="Self-pub roundup"/>
+        <psc:chapter start="01:09:19" title="Star Wars Rebels: a love letter to the fans"/>
+        <psc:chapter start="01:24:44" title="2019 in horror cinema"/>
+        <psc:chapter start="01:38:09" title="Let's talk about... Ad Astra"/>
+        <psc:chapter start="01:44:49" title="Original fiction - Red 14"/>
+        <psc:chapter start="01:53:17" title="Original fiction - Lazaraki Canticles"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Issue_4_4862416588.mp3" length="122975538" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=777</guid>
+      <pubDate>Wed, 11 Dec 2019 12:00:00 +0000</pubDate>
+      <itunes:duration>02:06:17</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Magazine</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-worlds-issue-4</link>
+    </item>
+    <item>
+      <title>Parallel Worlds Issue 3</title>
+      <itunes:subtitle>November 2019</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/Podcast_03_e91014ce93.png"/>
+      <itunes:summary><![CDATA[<p>In this issue: Vagrant Workshop, Duchamp Versus Einstein, Earthdawn, budget wargaming, Space Base, Beyond Kidding, Equinox, Homeworld, The Dark Crystal, Terraria, self-published novels, original fiction, and more.</p>
+<ul>
+<li>00:00:18 - Editorial</li>
+<li>00:02:24 - Interview: Carsten Damm of Vagrant Workshop</li>
+<li>00:10:25 - Why aren't aliens in video games more… alien?</li>
+<li>00:23:41 - Wargaming on a budget</li>
+<li>00:36:42 - Review: Space Base</li>
+<li>00:41:25 - Mini of the month: Garillien, Isharann Soulrender</li>
+<li>00:46:40 - FrightFest</li>
+<li>00:56:14 - Homeworld: past and future</li>
+<li>01:08:11 - Terraria: the success of simplicity in modern gaming</li>
+<li>01:14:59 - Diamonds in the rough: read adventurous!</li>
+<li>01:27:20 - Review: Rosewater</li>
+<li>01:30:31 - Review: Beyond Kidding</li>
+<li>01:33:45 - Review: Duchamp Versus Einstein</li>
+<li>01:36:33 - Keeping Trek part 2</li>
+<li>01:52:43 - Let's talk about… The Dark Crystal: Age of Resistance</li>
+<li>02:06:26 - Original fiction: Erden Foe</li>
+</ul>]]></itunes:summary>
+      <description><![CDATA[<p>In this issue: Vagrant Workshop, Duchamp Versus Einstein, Earthdawn, budget wargaming, Space Base, Beyond Kidding, Equinox, Homeworld, The Dark Crystal, Terraria, self-published novels, original fiction, and more.</p>
+<ul>
+<li>00:00:18 - Editorial</li>
+<li>00:02:24 - Interview: Carsten Damm of Vagrant Workshop</li>
+<li>00:10:25 - Why aren't aliens in video games more… alien?</li>
+<li>00:23:41 - Wargaming on a budget</li>
+<li>00:36:42 - Review: Space Base</li>
+<li>00:41:25 - Mini of the month: Garillien, Isharann Soulrender</li>
+<li>00:46:40 - FrightFest</li>
+<li>00:56:14 - Homeworld: past and future</li>
+<li>01:08:11 - Terraria: the success of simplicity in modern gaming</li>
+<li>01:14:59 - Diamonds in the rough: read adventurous!</li>
+<li>01:27:20 - Review: Rosewater</li>
+<li>01:30:31 - Review: Beyond Kidding</li>
+<li>01:33:45 - Review: Duchamp Versus Einstein</li>
+<li>01:36:33 - Keeping Trek part 2</li>
+<li>01:52:43 - Let's talk about… The Dark Crystal: Age of Resistance</li>
+<li>02:06:26 - Original fiction: Erden Foe</li>
+</ul>]]></description>
+      <googleplay:description><![CDATA[<p>In this issue: Vagrant Workshop, Duchamp Versus Einstein, Earthdawn, budget wargaming, Space Base, Beyond Kidding, Equinox, Homeworld, The Dark Crystal, Terraria, self-published novels, original fiction, and more.</p>
+<ul>
+<li>00:00:18 - Editorial</li>
+<li>00:02:24 - Interview: Carsten Damm of Vagrant Workshop</li>
+<li>00:10:25 - Why aren't aliens in video games more… alien?</li>
+<li>00:23:41 - Wargaming on a budget</li>
+<li>00:36:42 - Review: Space Base</li>
+<li>00:41:25 - Mini of the month: Garillien, Isharann Soulrender</li>
+<li>00:46:40 - FrightFest</li>
+<li>00:56:14 - Homeworld: past and future</li>
+<li>01:08:11 - Terraria: the success of simplicity in modern gaming</li>
+<li>01:14:59 - Diamonds in the rough: read adventurous!</li>
+<li>01:27:20 - Review: Rosewater</li>
+<li>01:30:31 - Review: Beyond Kidding</li>
+<li>01:33:45 - Review: Duchamp Versus Einstein</li>
+<li>01:36:33 - Keeping Trek part 2</li>
+<li>01:52:43 - Let's talk about… The Dark Crystal: Age of Resistance</li>
+<li>02:06:26 - Original fiction: Erden Foe</li>
+</ul>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="0" title="Intro"/>
+        <psc:chapter start="00:00:18" title="Editorial"/>
+        <psc:chapter start="00:02:24" title="Interview: Carsten Damm of Vagrant Workshop"/>
+        <psc:chapter start="00:10:25" title="Why aren't aliens in video games more... alien?"/>
+        <psc:chapter start="00:23:41" title="Wargaming on a budget"/>
+        <psc:chapter start="00:36:42" title="Review: Space Base"/>
+        <psc:chapter start="00:41:25" title="Mini of the month: Garillien, Isharann Soulrender"/>
+        <psc:chapter start="00:46:40" title="FrightFest"/>
+        <psc:chapter start="00:56:14" title="Homeworld: past and future"/>
+        <psc:chapter start="01:08:11" title="Terraria: the success of simplicity in modern gaming"/>
+        <psc:chapter start="01:14:59" title="Diamonds in the rough: read adventurous!"/>
+        <psc:chapter start="01:27:20" title="Review: Rosewater"/>
+        <psc:chapter start="01:30:31" title="Review: Beyond Kidding"/>
+        <psc:chapter start="01:33:45" title="Review: Duchamp Versus Einstein"/>
+        <psc:chapter start="01:36:33" title="Keeping Trek part 2"/>
+        <psc:chapter start="01:52:43" title="Let's talk about... The Dark Crystal: Age of Resistance"/>
+        <psc:chapter start="02:06:26" title="Original fiction: Erden Foe"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Issue_3_ac26b20328.mp3" length="134541096" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=515</guid>
+      <pubDate>Sun, 10 Nov 2019 12:00:00 +0000</pubDate>
+      <itunes:duration>02:19:58</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Magazine</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-worlds-issue-3</link>
+    </item>
+    <item>
+      <title>Parallel Worlds Issue 2</title>
+      <itunes:subtitle>November 2019</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/Podcast_02_48d50da732.png"/>
+      <itunes:summary><![CDATA[<p>In this issue: Netflix's Dark, Dragonslayer, original fiction, Adrian Tchaikovsky, Worldcon, Star Wars: Outer Rim, Kickstarter Roundup, global government, Star Trek, roleplaying games, World of Warcraft, Half-Life, Magicka, and more.</p>
+<ul>
+<li>00:00:18 - Editorial</li>
+<li>00:02:22 - Interview: Adrian Tchaikovsky</li>
+<li>00:08:33 - Review: Star Wars Outer Rim</li>
+<li>00:13:14 - Box half full: why Dungeons &amp; Dragons is so popular</li>
+<li>00:25:10 - Mini of the month: Uthred Steelmantle</li>
+<li>00:28:06 - Ruling the world</li>
+<li>00:38:17 - Version control: which editions should you play?</li>
+<li>00:50:46 - Original fiction: Beneath the Waystation</li>
+<li>01:04:35 - Destiny 2: being five years late to the party</li>
+<li>01:21:18 - Beyond the screen</li>
+<li>01:32:10 - Worldcon, Dublin 2019 01:40:00 - Review: Dark</li>
+<li>01:44:08 - Keeping Trek</li>
+<li>01:56:06 - Review: Dragonslayer, by Duncan M. Hamilton</li>
+<li>01:59:22 - Kickstarter roundup</li>
+</ul>]]></itunes:summary>
+      <description><![CDATA[<p>In this issue: Netflix's Dark, Dragonslayer, original fiction, Adrian Tchaikovsky, Worldcon, Star Wars: Outer Rim, Kickstarter Roundup, global government, Star Trek, roleplaying games, World of Warcraft, Half-Life, Magicka, and more.</p>
+<ul>
+<li>00:00:18 - Editorial</li>
+<li>00:02:22 - Interview: Adrian Tchaikovsky</li>
+<li>00:08:33 - Review: Star Wars Outer Rim</li>
+<li>00:13:14 - Box half full: why Dungeons &amp; Dragons is so popular</li>
+<li>00:25:10 - Mini of the month: Uthred Steelmantle</li>
+<li>00:28:06 - Ruling the world</li>
+<li>00:38:17 - Version control: which editions should you play?</li>
+<li>00:50:46 - Original fiction: Beneath the Waystation</li>
+<li>01:04:35 - Destiny 2: being five years late to the party</li>
+<li>01:21:18 - Beyond the screen</li>
+<li>01:32:10 - Worldcon, Dublin 2019 01:40:00 - Review: Dark</li>
+<li>01:44:08 - Keeping Trek</li>
+<li>01:56:06 - Review: Dragonslayer, by Duncan M. Hamilton</li>
+<li>01:59:22 - Kickstarter roundup</li>
+</ul>]]></description>
+      <googleplay:description><![CDATA[<p>In this issue: Netflix's Dark, Dragonslayer, original fiction, Adrian Tchaikovsky, Worldcon, Star Wars: Outer Rim, Kickstarter Roundup, global government, Star Trek, roleplaying games, World of Warcraft, Half-Life, Magicka, and more.</p>
+<ul>
+<li>00:00:18 - Editorial</li>
+<li>00:02:22 - Interview: Adrian Tchaikovsky</li>
+<li>00:08:33 - Review: Star Wars Outer Rim</li>
+<li>00:13:14 - Box half full: why Dungeons &amp; Dragons is so popular</li>
+<li>00:25:10 - Mini of the month: Uthred Steelmantle</li>
+<li>00:28:06 - Ruling the world</li>
+<li>00:38:17 - Version control: which editions should you play?</li>
+<li>00:50:46 - Original fiction: Beneath the Waystation</li>
+<li>01:04:35 - Destiny 2: being five years late to the party</li>
+<li>01:21:18 - Beyond the screen</li>
+<li>01:32:10 - Worldcon, Dublin 2019 01:40:00 - Review: Dark</li>
+<li>01:44:08 - Keeping Trek</li>
+<li>01:56:06 - Review: Dragonslayer, by Duncan M. Hamilton</li>
+<li>01:59:22 - Kickstarter roundup</li>
+</ul>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="0:00:00" title="Intro"/>
+        <psc:chapter start="00:00:18" title="Editorial"/>
+        <psc:chapter start="00:02:26" title="Interview: Adrian Tchaikovsky"/>
+        <psc:chapter start="00:08:38" title="Review: Star Wars Outer Rim"/>
+        <psc:chapter start="00:13:20" title="Box half full: why Dungeons and Dragons is so popular"/>
+        <psc:chapter start="00:25:14" title="Mini of the month: Uthred Steelmantle"/>
+        <psc:chapter start="00:28:08" title="Ruling the world"/>
+        <psc:chapter start="00:38:21" title="Version control: which editions should you play?"/>
+        <psc:chapter start="00:50:50" title="Original fiction: Beneath the Waystation"/>
+        <psc:chapter start="01:04:41" title="Destiny 2: being five years late to the party"/>
+        <psc:chapter start="01:21:21" title="Beyond the screen"/>
+        <psc:chapter start="01:32:13" title="Worldcon, Dublin 2019"/>
+        <psc:chapter start="01:40:03" title="Review: Dark"/>
+        <psc:chapter start="01:44:11" title="Keeping Trek"/>
+        <psc:chapter start="01:56:11" title="Review: Dragonslayer, by Duncan M. Hamilton"/>
+        <psc:chapter start="01:59:25" title="Kickstarter roundup"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Issue_2_5b45b43e13.mp3" length="135219197" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=500</guid>
+      <pubDate>Fri, 01 Nov 2019 12:00:00 +0000</pubDate>
+      <itunes:duration>02:09:40</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Magazine</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-worlds-issue-2</link>
+    </item>
+    <item>
+      <title>Parallel Worlds Issue 1</title>
+      <itunes:subtitle>October 2019</itunes:subtitle>
+      <itunes:author>Parallel Worlds</itunes:author>
+      <itunes:image href="https://api.podcast.parallelworlds.uk/uploads/Podcast_01_7d31362be8.png"/>
+      <itunes:summary><![CDATA[<p>In this issue: Lovecraft, Blood of an Exile, Star Citizen, Kickstarter Roundup, Tiny Epic Mechs, No Man's Sky, Call of Cthulhu, Elite Dangerous, Dungeons &amp; Dragons, Hollow Knight, UK Games Expo, original fiction, Dark Souls, and more.</p>
+<ul>
+<li>00:00:32 - Editorial</li>
+<li>00:02:36 - Interview: Isaac Childres</li>
+<li>00:08:22 - Review: Tiny Epic Mechs</li>
+<li>00:13:23 - Box full of knives: why Dungeons &amp; Dragons needs to step away from its wargaming roots</li>
+<li>00:24:29 - Intermediate frustration: the new Call of Cthulhu Starter Set</li>
+<li>00:30:06 - Mini of the month: Kethalas the Elf</li>
+<li>00:34:39 - H.P. Lovecraft, 100 Years On</li>
+<li>00:45:15 - Breaking the law: how fantastic is too far?</li>
+<li>00:53:01 - UK Games Expo 2019</li>
+<li>01:00:54 - Original fiction: Call of Demons</li>
+<li>01:10:29 - Promising the stars: the three biggest space games of the 2010s</li>
+<li>01:29:00 - Two knights and their hollow souls</li>
+<li>01:41:51 - Review: Blood of an Exile</li>
+<li>01:45:18 - Kickstarter roundup</li>
+</ul>]]></itunes:summary>
+      <description><![CDATA[<p>In this issue: Lovecraft, Blood of an Exile, Star Citizen, Kickstarter Roundup, Tiny Epic Mechs, No Man's Sky, Call of Cthulhu, Elite Dangerous, Dungeons &amp; Dragons, Hollow Knight, UK Games Expo, original fiction, Dark Souls, and more.</p>
+<ul>
+<li>00:00:32 - Editorial</li>
+<li>00:02:36 - Interview: Isaac Childres</li>
+<li>00:08:22 - Review: Tiny Epic Mechs</li>
+<li>00:13:23 - Box full of knives: why Dungeons &amp; Dragons needs to step away from its wargaming roots</li>
+<li>00:24:29 - Intermediate frustration: the new Call of Cthulhu Starter Set</li>
+<li>00:30:06 - Mini of the month: Kethalas the Elf</li>
+<li>00:34:39 - H.P. Lovecraft, 100 Years On</li>
+<li>00:45:15 - Breaking the law: how fantastic is too far?</li>
+<li>00:53:01 - UK Games Expo 2019</li>
+<li>01:00:54 - Original fiction: Call of Demons</li>
+<li>01:10:29 - Promising the stars: the three biggest space games of the 2010s</li>
+<li>01:29:00 - Two knights and their hollow souls</li>
+<li>01:41:51 - Review: Blood of an Exile</li>
+<li>01:45:18 - Kickstarter roundup</li>
+</ul>]]></description>
+      <googleplay:description><![CDATA[<p>In this issue: Lovecraft, Blood of an Exile, Star Citizen, Kickstarter Roundup, Tiny Epic Mechs, No Man's Sky, Call of Cthulhu, Elite Dangerous, Dungeons &amp; Dragons, Hollow Knight, UK Games Expo, original fiction, Dark Souls, and more.</p>
+<ul>
+<li>00:00:32 - Editorial</li>
+<li>00:02:36 - Interview: Isaac Childres</li>
+<li>00:08:22 - Review: Tiny Epic Mechs</li>
+<li>00:13:23 - Box full of knives: why Dungeons &amp; Dragons needs to step away from its wargaming roots</li>
+<li>00:24:29 - Intermediate frustration: the new Call of Cthulhu Starter Set</li>
+<li>00:30:06 - Mini of the month: Kethalas the Elf</li>
+<li>00:34:39 - H.P. Lovecraft, 100 Years On</li>
+<li>00:45:15 - Breaking the law: how fantastic is too far?</li>
+<li>00:53:01 - UK Games Expo 2019</li>
+<li>01:00:54 - Original fiction: Call of Demons</li>
+<li>01:10:29 - Promising the stars: the three biggest space games of the 2010s</li>
+<li>01:29:00 - Two knights and their hollow souls</li>
+<li>01:41:51 - Review: Blood of an Exile</li>
+<li>01:45:18 - Kickstarter roundup</li>
+</ul>]]></googleplay:description>
+      <psc:chapters version="1.1" xmlns:psc="http://podlove.org/simple-chapters">
+        <psc:chapter start="0:00:00" title="Intro"/>
+        <psc:chapter start="00:00:32" title="Editorial"/>
+        <psc:chapter start="00:02:36" title="Interview - Isaac Childres"/>
+        <psc:chapter start="00:08:22" title="Review - Tiny Epic Mechs"/>
+        <psc:chapter start="00:13:23" title="Box full of knives: why Dungeons and Dragons needs to step away from its wargaming roots"/>
+        <psc:chapter start="00:24:29" title="Intermediate frustration: the new Call of Cthulhu Starter Set"/>
+        <psc:chapter start="00:30:06" title="Mini of the month: Kethalas the Elf"/>
+        <psc:chapter start="00:34:39" title="H.P. Lovecraft 100 Years On"/>
+        <psc:chapter start="00:45:15" title="Breaking the law - how fantastic is too far?"/>
+        <psc:chapter start="00:53:01" title="UK Games Expo 2019"/>
+        <psc:chapter start="01:00:54" title="Original fiction - Call of Demons"/>
+        <psc:chapter start="01:10:29" title="Promising the stars - the three biggest space games of the 2010s"/>
+        <psc:chapter start="01:29:00" title="Two knights and their hollow souls"/>
+        <psc:chapter start="01:41:51" title="Review: Blood of an Exile"/>
+        <psc:chapter start="01:45:18" title="Kickstarter roundup"/>
+      </psc:chapters>
+      <enclosure url="https://api.podcast.parallelworlds.uk/uploads/Parallel_Worlds_Issue_01_cc8ca2fbdc.mp3" length="112733731" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://www.parallelworlds.uk/?p=459</guid>
+      <pubDate>Fri, 25 Oct 2019 12:00:00 +0000</pubDate>
+      <itunes:duration>01:53:54</itunes:duration>
+      <itunes:keywords>Parallel Worlds,Magazine</itunes:keywords>
+      <itunes:explicit>false</itunes:explicit>
+      <link>https://podcast.parallelworlds.uk/episodes/parallel-worlds-issue-1</link>
+    </item>
+  </channel>
+</rss>
